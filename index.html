@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Monitor Global de Cibersegurança</title>
+<style>
+:root{--bg:#f5f6f8;--card:#fff;--tx:#14181f;--mut:#5b6573;--bd:#dde1e8;--ac:#0b6bcb;--crit:#c62828;--alta:#e65100;--med:#b58900;--baixa:#2e7d32}
+@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#0e1116;--card:#171b22;--tx:#e8ebf0;--mut:#9aa4b2;--bd:#2a313b;--ac:#5aa9ff;--crit:#ff6b6b;--alta:#ffa04d;--med:#e6c14a;--baixa:#5fd08a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:980px;margin:0 auto;padding:20px 16px 40px}
+h1{font-size:1.5rem;margin:0 0 4px}.sub{color:var(--mut);font-size:.85rem;margin-bottom:14px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:14px}
+.stat{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:10px 12px}.stat b{display:block;font-size:1.4rem}.stat span{color:var(--mut);font-size:.78rem}
+.bar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px;align-items:center}
+.chip{border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:999px;padding:5px 12px;font-size:.82rem;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ac);border-color:var(--ac);color:#fff}
+input[type=search]{flex:1;min-width:160px;padding:8px 12px;border-radius:8px;border:1px solid var(--bd);background:var(--card);color:var(--tx);font:inherit}
+.item{background:var(--card);border:1px solid var(--bd);border-left:5px solid var(--mut);border-radius:10px;padding:12px 14px;margin-bottom:10px}
+.item.Crítica{border-left-color:var(--crit)}.item.Alta{border-left-color:var(--alta)}.item.Média{border-left-color:var(--med)}.item.Baixa{border-left-color:var(--baixa)}
+.meta{display:flex;flex-wrap:wrap;gap:6px 10px;font-size:.75rem;color:var(--mut);margin-bottom:4px}
+.tag{border:1px solid var(--bd);border-radius:6px;padding:0 6px}.sev{font-weight:700}
+.item h3{margin:0 0 4px;font-size:1rem}.item p{margin:0 0 6px;color:var(--mut);font-size:.9rem}
+a{color:var(--ac);font-size:.85rem}.empty{color:var(--mut);text-align:center;padding:30px}
+footer{color:var(--mut);font-size:.78rem;margin-top:20px}
+</style>
+</head>
+<body>
+<main>
+<h1>🛡️ Monitor Global de Cibersegurança</h1>
+<div class="sub" id="upd">Carregando…</div>
+<div class="stats" id="stats"></div>
+<div class="bar"><input type="search" id="q" placeholder="Buscar (ex.: ransomware, Cisco, Brasil)"><button class="chip" id="rf">⟳ Atualizar</button></div>
+<div class="bar" id="regs"></div>
+<div class="bar" id="sevs"></div>
+<div id="list"></div>
+<footer>Títulos e resumos vêm dos feeds originais (em inglês, exceto CERT.br). Região, tipo e gravidade são classificados automaticamente por palavras-chave e podem errar. Atualiza sozinho a cada 15 minutos.</footer>
+</main>
+<script>
+let N=[],upd=null;const SEV=["Crítica","Alta","Média","Baixa"];const st={r:"Todas",s:"Todas",q:""};
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=d=>new Date(d).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+function chips(el,vals,key){el.innerHTML="";["Todas",...vals].forEach(v=>{const b=document.createElement("button");b.className="chip";b.textContent=v;b.setAttribute("aria-pressed",st[key]===v);b.onclick=()=>{st[key]=v;draw()};el.appendChild(b)})}
+function draw(){
+  const regs=[...new Set(N.map(n=>n.r))].sort();chips($("regs"),regs,"r");chips($("sevs"),SEV,"s");
+  const q=st.q.toLowerCase();
+  const L=N.filter(n=>(st.r==="Todas"||n.r===st.r)&&(st.s==="Todas"||n.s===st.s)&&(!q||(n.h+n.x+n.t+n.f).toLowerCase().includes(q)));
+  $("stats").innerHTML=[["Notícias",N.length],["Críticas",N.filter(n=>n.s==="Crítica").length],["Regiões",regs.length],["Exibindo",L.length]].map(([k,v])=>`<div class="stat"><b>${v}</b><span>${k}</span></div>`).join("");
+  $("list").innerHTML=L.length?L.map(n=>`<article class="item ${n.s}"><div class="meta"><span>${fmt(n.d)}</span><span class="tag">${esc(n.r)}</span><span class="tag">${esc(n.t)}</span><span class="sev">${n.s}</span></div><h3>${esc(n.h)}</h3><p>${esc(n.x)}</p><a href="${esc(n.u)}" target="_blank" rel="noopener noreferrer">${esc(n.f)} ↗</a></article>`).join(""):'<div class="empty">Nada encontrado.</div>';
+  $("upd").textContent=upd?"Atualizado em "+fmt(upd)+" · últimos 7 dias":"";
+}
+async function load(){
+  $("rf").disabled=true;
+  try{const r=await fetch("noticias.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;const j=await r.json();N=j.items||[];upd=j.updated}
+  catch(e){$("upd").textContent="Não foi possível carregar noticias.json."}
+  $("rf").disabled=false;draw();
+}
+$("q").addEventListener("input",e=>{st.q=e.target.value;draw()});
+$("rf").onclick=load;load();setInterval(load,15*60*1000);
+</script>
+</body>
+</html>
