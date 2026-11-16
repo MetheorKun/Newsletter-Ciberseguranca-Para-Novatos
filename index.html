@@ -5,60 +5,63 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Monitor Global de Cibersegurança</title>
 <style>
-:root{--bg:#f5f6f8;--card:#fff;--tx:#14181f;--mut:#5b6573;--bd:#dde1e8;--ac:#0b6bcb;--crit:#c62828;--alta:#e65100;--med:#b58900;--baixa:#2e7d32}
-@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#0e1116;--card:#171b22;--tx:#e8ebf0;--mut:#9aa4b2;--bd:#2a313b;--ac:#5aa9ff;--crit:#ff6b6b;--alta:#ffa04d;--med:#e6c14a;--baixa:#5fd08a}}
+:root{--bg:#f3f6fb;--card:#fff;--tx:#18202c;--mut:#5f6b7c;--bd:#e2e8f1;--ac:#2f7cf6;--sh:0 2px 8px rgba(20,40,80,.07);
+--c1:#e5484d;--c2:#f08a24;--c3:#e0b422;--c4:#34b27b;
+--b1:#fdecec;--b2:#fff1e3;--b3:#fff8dc;--b4:#e6f7ef}
+@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#0f141c;--card:#18202b;--tx:#e9eef5;--mut:#9aa7b8;--bd:#2a3442;--ac:#6aa8ff;--sh:none;
+--c1:#ff6b70;--c2:#ffa04d;--c3:#ecc94b;--c4:#4cd39a;--b1:#2b1b1f;--b2:#2b2119;--b3:#2a2617;--b4:#17281f}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-main{max-width:980px;margin:0 auto;padding:20px 16px 40px}
-h1{font-size:1.5rem;margin:0 0 4px}.sub{color:var(--mut);font-size:.85rem;margin-bottom:14px}
-.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:14px}
-.stat{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:10px 12px}.stat b{display:block;font-size:1.4rem}.stat span{color:var(--mut);font-size:.78rem}
+main{max-width:1180px;margin:0 auto;padding:22px 16px 50px}
+header{margin-bottom:18px}
+h1{font-size:1.7rem;margin:0 0 4px}
+.sub{color:var(--mut);font-size:.9rem}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:18px 0}
+.stat{background:var(--card);border-radius:16px;padding:14px 16px;box-shadow:var(--sh);border:1px solid var(--bd)}
+.stat b{display:block;font-size:1.6rem}.stat span{color:var(--mut);font-size:.8rem}
 .bar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px;align-items:center}
-.chip{border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:999px;padding:5px 12px;font-size:.82rem;cursor:pointer}
+.chip{border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:999px;padding:6px 14px;font-size:.85rem;cursor:pointer}
 .chip[aria-pressed="true"]{background:var(--ac);border-color:var(--ac);color:#fff}
-input[type=search]{flex:1;min-width:160px;padding:8px 12px;border-radius:8px;border:1px solid var(--bd);background:var(--card);color:var(--tx);font:inherit}
-.item{background:var(--card);border:1px solid var(--bd);border-left:5px solid var(--mut);border-radius:10px;padding:12px 14px;margin-bottom:10px}
-.item.Crítica{border-left-color:var(--crit)}.item.Alta{border-left-color:var(--alta)}.item.Média{border-left-color:var(--med)}.item.Baixa{border-left-color:var(--baixa)}
-.meta{display:flex;flex-wrap:wrap;gap:6px 10px;font-size:.75rem;color:var(--mut);margin-bottom:4px}
-.tag{border:1px solid var(--bd);border-radius:6px;padding:0 6px}.sev{font-weight:700}
-.item h3{margin:0 0 4px;font-size:1rem}.item p{margin:0 0 6px;color:var(--mut);font-size:.9rem}
-a{color:var(--ac);font-size:.85rem}.empty{color:var(--mut);text-align:center;padding:30px}
-footer{color:var(--mut);font-size:.78rem;margin-top:20px}
+input[type=search]{flex:1;min-width:180px;padding:10px 16px;border-radius:999px;border:1px solid var(--bd);background:var(--card);color:var(--tx);font:inherit}
+section{margin-top:26px}
+.sh{display:flex;align-items:center;gap:10px;margin-bottom:12px;padding:10px 14px;border-radius:14px}
+.sh h2{margin:0;font-size:1.1rem}.sh small{color:var(--mut)}
+.sh .n{margin-left:auto;font-weight:700;border-radius:999px;padding:2px 12px;background:var(--card)}
+.s1 .sh{background:var(--b1)}.s2 .sh{background:var(--b2)}.s3 .sh{background:var(--b3)}.s4 .sh{background:var(--b4)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:18px;box-shadow:var(--sh);padding:14px;display:flex;flex-direction:column;gap:8px;border-top:5px solid var(--mut);min-height:230px;transition:transform .15s}
+.card:hover{transform:translateY(-3px)}
+.s1 .card{border-top-color:var(--c1)}.s2 .card{border-top-color:var(--c2)}.s3 .card{border-top-color:var(--c3)}.s4 .card{border-top-color:var(--c4)}
+.top{display:flex;align-items:center;gap:8px;font-size:.74rem;color:var(--mut)}
+.ico{font-size:1.5rem;line-height:1}
+.tag{border:1px solid var(--bd);border-radius:999px;padding:1px 8px}
+.card h3{margin:0;font-size:.98rem;line-height:1.35;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card p{margin:0;color:var(--mut);font-size:.85rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.foot{margin-top:auto;display:flex;justify-content:space-between;align-items:center;font-size:.76rem;color:var(--mut);gap:8px}
+.foot a{background:var(--ac);color:#fff;text-decoration:none;border-radius:999px;padding:4px 12px;font-size:.78rem;white-space:nowrap}
+.more{display:block;margin:14px auto 0}
+.empty{text-align:center;color:var(--mut);padding:40px}
+footer{color:var(--mut);font-size:.78rem;margin-top:30px;text-align:center}
 </style>
 </head>
 <body>
 <main>
+<header>
 <h1>🛡️ Monitor Global de Cibersegurança</h1>
 <div class="sub" id="upd">Carregando…</div>
+</header>
 <div class="stats" id="stats"></div>
-<div class="bar"><input type="search" id="q" placeholder="Buscar (ex.: ransomware, Cisco, Brasil)"><button class="chip" id="rf">⟳ Atualizar</button></div>
+<div class="bar"><input type="search" id="q" placeholder="🔎 Buscar (ex.: ransomware, Cisco, Brasil)"><button class="chip" id="rf">⟳ Atualizar</button></div>
 <div class="bar" id="regs"></div>
-<div class="bar" id="sevs"></div>
 <div id="list"></div>
-<footer>Títulos e resumos vêm dos feeds originais (em inglês, exceto CERT.br). Região, tipo e gravidade são classificados automaticamente por palavras-chave e podem errar. Atualiza sozinho a cada 15 minutos.</footer>
+<footer>Títulos e resumos vêm dos feeds originais (em inglês, exceto CERT.br). Região, tipo e gravidade são automáticos e podem errar. Atualiza sozinho a cada 15 minutos.</footer>
 </main>
 <script>
-let N=[],upd=null;const SEV=["Crítica","Alta","Média","Baixa"];const st={r:"Todas",s:"Todas",q:""};
+let N=[],upd=null;const st={r:"Todas",q:""},open={};const PER=8;
+const LV=[["Crítica","s1","🔴","Atenção imediata"],["Alta","s2","🟠","Merece acompanhamento"],["Média","s3","🟡","Bom saber"],["Baixa","s4","🟢","Informativo"]];
+const IC={"Ransomware":"🔒","Vulnerabilidade":"🐛","Vazamento de dados":"💧","Phishing / Golpes":"🎣","Malware / Botnet":"🦠","Cripto":"🪙","Espionagem":"🕵️","Operação policial":"🚔"};
 const $=id=>document.getElementById(id);
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const fmt=d=>new Date(d).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
-function chips(el,vals,key){el.innerHTML="";["Todas",...vals].forEach(v=>{const b=document.createElement("button");b.className="chip";b.textContent=v;b.setAttribute("aria-pressed",st[key]===v);b.onclick=()=>{st[key]=v;draw()};el.appendChild(b)})}
 function draw(){
-  const regs=[...new Set(N.map(n=>n.r))].sort();chips($("regs"),regs,"r");chips($("sevs"),SEV,"s");
-  const q=st.q.toLowerCase();
-  const L=N.filter(n=>(st.r==="Todas"||n.r===st.r)&&(st.s==="Todas"||n.s===st.s)&&(!q||(n.h+n.x+n.t+n.f).toLowerCase().includes(q)));
-  $("stats").innerHTML=[["Notícias",N.length],["Críticas",N.filter(n=>n.s==="Crítica").length],["Regiões",regs.length],["Exibindo",L.length]].map(([k,v])=>`<div class="stat"><b>${v}</b><span>${k}</span></div>`).join("");
-  $("list").innerHTML=L.length?L.map(n=>`<article class="item ${n.s}"><div class="meta"><span>${fmt(n.d)}</span><span class="tag">${esc(n.r)}</span><span class="tag">${esc(n.t)}</span><span class="sev">${n.s}</span></div><h3>${esc(n.h)}</h3><p>${esc(n.x)}</p><a href="${esc(n.u)}" target="_blank" rel="noopener noreferrer">${esc(n.f)} ↗</a></article>`).join(""):'<div class="empty">Nada encontrado.</div>';
-  $("upd").textContent=upd?"Atualizado em "+fmt(upd)+" · últimos 7 dias":"";
-}
-async function load(){
-  $("rf").disabled=true;
-  try{const r=await fetch("noticias.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;const j=await r.json();N=j.items||[];upd=j.updated}
-  catch(e){$("upd").textContent="Não foi possível carregar noticias.json."}
-  $("rf").disabled=false;draw();
-}
-$("q").addEventListener("input",e=>{st.q=e.target.value;draw()});
-$("rf").onclick=load;load();setInterval(load,15*60*1000);
-</script>
-</body>
-</html>
+  const
