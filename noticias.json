@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-16T22:50:01+00:00",
+ "updated": "2026-11-17T04:56:28+00:00",
  "items": [
+  {
+   "d": "2026-11-17T02:12+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+   "x": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts des…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/"
+  },
+  {
+   "d": "2026-11-16T22:54+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+   "x": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from acc…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/"
+  },
   {
    "d": "2026-11-16T22:08+00:00",
    "r": "Global",
@@ -492,16 +512,6 @@
    "u": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
   },
   {
-   "d": "2026-11-15T15:23+00:00",
-   "r": "Ásia",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "TSMC employee data breach linked to cloud provider",
-   "x": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/"
-  },
-  {
    "d": "2026-11-15T11:27+00:00",
    "r": "Europa",
    "t": "Geral",
@@ -520,16 +530,6 @@
    "x": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker ob…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html"
-  },
-  {
-   "d": "2026-11-14T17:27+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Cursor confirms security breach led to malicious Claude Code extension",
-   "x": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
   },
   {
    "d": "2026-11-14T12:38+00:00",
