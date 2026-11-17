@@ -1,6 +1,266 @@
 {
- "updated": "2026-11-17T04:56:28+00:00",
+ "updated": "2026-11-17T14:08:16+00:00",
  "items": [
+  {
+   "d": "2026-11-17T14:00+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "PreTxt Emerges Stealth with $5M Seed and an AI Supervision Tool",
+   "x": "PreTxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post PreTxt Emerges Stealth with $5M Seed and an AI Supervision Tool appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/"
+  },
+  {
+   "d": "2026-11-17T13:45+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Optimizely Flaw Exploited to Serve Malicious Code to Visitors of 178 Organizations",
+   "x": "An attacker abused an Optimizely flaw to plant malicious code on websites of 178 organizations",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/optimizely-hack-malware-178-orgs/"
+  },
+  {
+   "d": "2026-11-17T13:32+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour",
+   "x": "Even strict authentication mode has a hole, we're told, while basic exploit defenses are missing from the firmware",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197"
+  },
+  {
+   "d": "2026-11-17T13:24+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
+   "x": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/"
+  },
+  {
+   "d": "2026-11-17T13:22+00:00",
+   "r": "América do Norte",
+   "t": "Cripto",
+   "s": "Baixa",
+   "h": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
+   "x": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check"
+  },
+  {
+   "d": "2026-11-17T13:00+00:00",
+   "r": "Global",
+   "t": "Phishing / Golpes",
+   "s": "Alta",
+   "h": "Microsoft Warns of Coordinated Phishing Campaign Leveraging M365 Service Outage",
+   "x": "Microsoft said the high volume campaign was likely designed to capture user credentials, and urged organizations to investigate signs of compromise",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/microsoft-phishing-service-outage/"
+  },
+  {
+   "d": "2026-11-17T12:59+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Access Dental Management Data Breach Impacts Over 340,000",
+   "x": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/"
+  },
+  {
+   "d": "2026-11-17T12:51+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
+   "x": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion. The post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity appeared first on Secu…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/"
+  },
+  {
+   "d": "2026-11-17T12:28+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
+   "x": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/"
+  },
+  {
+   "d": "2026-11-17T12:25+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+   "x": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"
+  },
+  {
+   "d": "2026-11-17T12:14+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+   "x": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Nei…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+   "x": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/"
+  },
+  {
+   "d": "2026-11-17T11:44+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Opinion pollster Ipsos 'fesses up to 'cybersecurity incident'",
+   "x": "Market research company brings in external specialists to grok cause and scope",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405"
+  },
+  {
+   "d": "2026-11-17T11:20+00:00",
+   "r": "Ásia",
+   "t": "Malware / Botnet",
+   "s": "Alta",
+   "h": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+   "x": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html"
+  },
+  {
+   "d": "2026-11-17T11:19+00:00",
+   "r": "América do Norte",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+   "x": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/"
+  },
+  {
+   "d": "2026-11-17T11:07+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+   "x": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html"
+  },
+  {
+   "d": "2026-11-17T10:22+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
+   "x": "Affected organizations include BBC, CNN, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA. The post Optimizely Vulnerability Exploited to Serve Malware on Major Websites appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/"
+  },
+  {
+   "d": "2026-11-17T10:15+00:00",
+   "r": "Europa",
+   "t": "Phishing / Golpes",
+   "s": "Média",
+   "h": "ICO Issues GTA 6 Scam Warning as Release Date Nears",
+   "x": "The UK's Information Commissioner’s Office has warned of Grand Theft Auto 6-related cyber-attacks",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/ico-gta-6-scam-warning-release/"
+  },
+  {
+   "d": "2026-11-17T09:44+00:00",
+   "r": "América do Norte",
+   "t": "Cripto",
+   "s": "Alta",
+   "h": "Court clears brothers of $25 million Ethereum crypto heist charges",
+   "x": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/"
+  },
+  {
+   "d": "2026-11-17T09:30+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Fully Autonomous Agentic Attacks Are Three Months Away, Google Warns",
+   "x": "Google Threat Intelligence Group warns of “paradigm shift” in use of agentic pen-test frameworks",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/fully-autonomous-agentic-attacks/"
+  },
+  {
+   "d": "2026-11-17T08:35+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+   "x": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/"
+  },
+  {
+   "d": "2026-11-17T07:25+00:00",
+   "r": "Europa",
+   "t": "Ransomware",
+   "s": "Alta",
+   "h": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+   "x": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/"
+  },
+  {
+   "d": "2026-11-17T07:12+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+   "x": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html"
+  },
+  {
+   "d": "2026-11-17T06:29+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Baixa",
+   "h": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+   "x": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html"
+  },
+  {
+   "d": "2026-11-17T05:27+00:00",
+   "r": "Ásia",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Japan's Fugaku supercomputer has decidedly un-super security",
+   "x": "Attackers try logging in to Earth’s ninth most powerful machine after status page hack exposed credentials",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333"
+  },
+  {
+   "d": "2026-11-17T05:00+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+   "x": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of se…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html"
+  },
   {
    "d": "2026-11-17T02:12+00:00",
    "r": "Global",
@@ -146,10 +406,10 @@
    "r": "Global",
    "t": "Vazamento de dados",
    "s": "Alta",
-   "h": "Crook turns free trials into phishing factory, as LearnWorlds sends 13,000 fake YouTube copyright notices",
+   "h": "Crook turns LearnWorlds' free trials into phishing factory, sends 13,000 fake YouTube copyright notices",
    "x": "570 bogus accounts, one rewritten welcome email, and a fake YouTube page, but CEO says no breach",
    "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/16/crook-turns-free-trials-into-phishing-factory-as-learnworlds-sends-13000-fake-youtube-copyright-notices/5310122"
+   "u": "https://www.theregister.com/security/2026/11/16/crook-turns-learnworlds-free-trials-into-phishing-factory-sends-13000-fake-youtube-copyright-notices/5310122"
   },
   {
    "d": "2026-11-16T16:43+00:00",
@@ -242,16 +502,6 @@
    "u": "https://www.infosecurity-magazine.com/news/maileva-docaposte-22-million-breach/"
   },
   {
-   "d": "2026-11-16T15:07+00:00",
-   "r": "Ásia",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
-   "x": "Chinese threat actors are broadly adopting the agentic AI penetration testing framework to accelerate their attacks. The post Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/"
-  },
-  {
    "d": "2026-11-16T15:01+00:00",
    "r": "América do Norte",
    "t": "Vulnerabilidade",
@@ -312,16 +562,6 @@
    "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/"
   },
   {
-   "d": "2026-11-16T12:48+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
-   "x": "Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims. The post Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch appe…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/"
-  },
-  {
    "d": "2026-11-16T12:34+00:00",
    "r": "Europa",
    "t": "Vulnerabilidade",
@@ -372,46 +612,6 @@
    "u": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/"
   },
   {
-   "d": "2026-11-16T11:15+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
-   "x": "Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/"
-  },
-  {
-   "d": "2026-11-16T11:05+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
-   "x": "Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted. The post Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers appear…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/"
-  },
-  {
-   "d": "2026-11-16T11:02+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Uber Data Breach Impacts 150,000 People",
-   "x": "Hackers compromised a third-party services provider and stole names, addresses, and driver’s license numbers. The post Uber Data Breach Impacts 150,000 People appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/"
-  },
-  {
-   "d": "2026-11-16T11:00+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-   "x": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/"
-  },
-  {
    "d": "2026-11-16T10:00+00:00",
    "r": "Europa",
    "t": "Geral",
@@ -432,16 +632,6 @@
    "u": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html"
   },
   {
-   "d": "2026-11-16T09:30+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-   "x": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/"
-  },
-  {
    "d": "2026-11-16T09:00+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -450,36 +640,6 @@
    "x": "Forescout report claims to have found 66 new flaws in just 90 hours using AI",
    "f": "Infosecurity Magazine",
    "u": "https://www.infosecurity-magazine.com/news/ai-cut-vulnerability-discover-nine/"
-  },
-  {
-   "d": "2026-11-16T08:55+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
-   "x": "Tor 0.4.9.17 patches several security issues, including one related to how built-in DoS protections deal with IPv6. The post Tor Updates DoS Defenses Again as Relay Attacks Continue appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/"
-  },
-  {
-   "d": "2026-11-16T08:26+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Microsoft pushes Windows emergency updates to fix activation failures",
-   "x": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/"
-  },
-  {
-   "d": "2026-11-16T08:15+00:00",
-   "r": "Global",
-   "t": "Phishing / Golpes",
-   "s": "Média",
-   "h": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
-   "x": "Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. The post Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign appeared …",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/"
   },
   {
    "d": "2026-11-16T07:34+00:00",
@@ -500,16 +660,6 @@
    "x": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documente…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html"
-  },
-  {
-   "d": "2026-11-15T18:29+00:00",
-   "r": "América do Norte",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-   "x": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that comprom…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
   },
   {
    "d": "2026-11-15T11:27+00:00",
@@ -550,6 +700,16 @@
    "x": "Accessing banned content is as easy as whipping out a thesaurus, Parliament's Communications and Digital Committee hears",
    "f": "The Register",
    "u": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302"
+  },
+  {
+   "d": "2026-11-13T22:27+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
+   "x": "It's hard to detect whether someone is using artificial intelligence (AI) to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up"
   },
   {
    "d": "2026-11-13T20:52+00:00",
@@ -1202,16 +1362,6 @@
    "u": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience"
   },
   {
-   "d": "2026-11-11T20:27+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "As Test Takers Turn to AI for Answers, Exam Security Must Catch Up",
-   "x": "It's hard to detect whether someone is using artificial intelligence (AI) to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up"
-  },
-  {
    "d": "2026-11-11T20:05+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -1350,156 +1500,6 @@
    "x": "Microsoft patched a record-breaking 1235 CVEs in November’s Patch Tuesday",
    "f": "Infosecurity Magazine",
    "u": "https://www.infosecurity-magazine.com/news/microsoft-fixes-1235-flaws-record/"
-  },
-  {
-   "d": "2026-11-11T08:17+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-   "x": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, …",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html"
-  },
-  {
-   "d": "2026-11-11T07:49+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-   "x": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to …",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html"
-  },
-  {
-   "d": "2026-11-11T07:21+00:00",
-   "r": "Global",
-   "t": "Malware / Botnet",
-   "s": "Alta",
-   "h": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-   "x": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html"
-  },
-  {
-   "d": "2026-11-11T06:04+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-   "x": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) cat…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html"
-  },
-  {
-   "d": "2026-11-11T05:20+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "OpenAI builds a kill switch for its research models",
-   "x": "How much damage can a rogue agent do in 35 seconds? Asking cos that’s how long it might take to shut one down",
-   "f": "The Register",
-   "u": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006"
-  },
-  {
-   "d": "2026-11-10T22:37+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "November Patch Tuesday boasts over 1,000 bugs, one already under attack",
-   "x": "Microsoft admins wail and gnash their teeth",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-one-already-under-attack/5308946"
-  },
-  {
-   "d": "2026-11-10T22:26+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
-   "x": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves"
-  },
-  {
-   "d": "2026-11-10T21:55+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-   "x": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical …",
-   "f": "Krebs on Security",
-   "u": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/"
-  },
-  {
-   "d": "2026-11-10T21:45+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Ring robots ready to patrol paranoids’ pads",
-   "x": "Amazon calls its home security drone and business patrol bot 'proactive protection'",
-   "f": "The Register",
-   "u": "https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932"
-  },
-  {
-   "d": "2026-11-10T21:01+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
-   "x": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon"
-  },
-  {
-   "d": "2026-11-10T20:41+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
-   "x": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them"
-  },
-  {
-   "d": "2026-11-10T20:35+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
-   "x": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer"
-  },
-  {
-   "d": "2026-11-10T20:18+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "How to Assess OT Incident Response Preparedness",
-   "x": "Cloud Range's free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness"
-  },
-  {
-   "d": "2026-11-10T19:23+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-   "x": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html"
-  },
-  {
-   "d": "2026-11-10T19:19+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-   "x": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html"
   }
  ]
 }
