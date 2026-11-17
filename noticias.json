@@ -1,13 +1,173 @@
 {
- "updated": "2026-11-17T14:08:16+00:00",
+ "updated": "2026-11-17T22:32:43+00:00",
  "items": [
+  {
+   "d": "2026-11-17T21:27+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+   "x": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/"
+  },
+  {
+   "d": "2026-11-17T20:58+00:00",
+   "r": "Global",
+   "t": "Phishing / Golpes",
+   "s": "Média",
+   "h": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+   "x": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat"
+  },
+  {
+   "d": "2026-11-17T20:51+00:00",
+   "r": "Ásia",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Japan takes Fugaku supercomputer offlline after cyberattack",
+   "x": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/"
+  },
+  {
+   "d": "2026-11-17T19:34+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+   "x": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send in…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html"
+  },
+  {
+   "d": "2026-11-17T19:24+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Baixa",
+   "h": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+   "x": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/"
+  },
+  {
+   "d": "2026-11-17T18:38+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+   "x": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach"
+  },
+  {
+   "d": "2026-11-17T18:21+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+   "x": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/"
+  },
+  {
+   "d": "2026-11-17T18:16+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Média",
+   "h": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+   "x": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on Security…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/"
+  },
+  {
+   "d": "2026-11-17T18:04+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Tor releases emergency update amid ongoing DDoS attack",
+   "x": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. …",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/"
+  },
+  {
+   "d": "2026-11-17T16:00+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+   "x": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/"
+  },
+  {
+   "d": "2026-11-17T15:30+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Baixa",
+   "h": "Anthropic Cuts Disclosure Deadline to 30 Days For Serious Bugs",
+   "x": "Anthropic will publish serious flaws found by its AI models 30 days after reporting them",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/anthropic-disclosure-deadline-30/"
+  },
+  {
+   "d": "2026-11-17T15:17+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+   "x": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially cr…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html"
+  },
+  {
+   "d": "2026-11-17T15:17+00:00",
+   "r": "Europa",
+   "t": "Malware / Botnet",
+   "s": "Baixa",
+   "h": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+   "x": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impe…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html"
+  },
+  {
+   "d": "2026-11-17T15:01+00:00",
+   "r": "Global",
+   "t": "Phishing / Golpes",
+   "s": "Alta",
+   "h": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+   "x": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/"
+  },
+  {
+   "d": "2026-11-17T14:55+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Market Research Giant Ipsos Investigating Breach of Internal System",
+   "x": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of Internal System appeared first on SecurityWee…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/"
+  },
+  {
+   "d": "2026-11-17T14:14+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+   "x": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed. The post Fandango Warns Ticket Buyers of Payment Card Data Exposure appeare…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/"
+  },
   {
    "d": "2026-11-17T14:00+00:00",
    "r": "Global",
    "t": "Geral",
    "s": "Média",
-   "h": "PreTxt Emerges Stealth with $5M Seed and an AI Supervision Tool",
-   "x": "PreTxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post PreTxt Emerges Stealth with $5M Seed and an AI Supervision Tool appeared first on SecurityWeek .",
+   "h": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
+   "x": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on SecurityWeek .",
    "f": "SecurityWeek",
    "u": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/"
   },
@@ -22,16 +182,6 @@
    "u": "https://www.infosecurity-magazine.com/news/optimizely-hack-malware-178-orgs/"
   },
   {
-   "d": "2026-11-17T13:32+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour",
-   "x": "Even strict authentication mode has a hole, we're told, while basic exploit defenses are missing from the firmware",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197"
-  },
-  {
    "d": "2026-11-17T13:24+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -42,14 +192,14 @@
    "u": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/"
   },
   {
-   "d": "2026-11-17T13:22+00:00",
-   "r": "América do Norte",
-   "t": "Cripto",
-   "s": "Baixa",
-   "h": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
-   "x": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
+   "d": "2026-11-17T13:12+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Grok Bots Attempt to Access Corporate Data Without User Approval",
+   "x": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.",
    "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check"
+   "u": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval"
   },
   {
    "d": "2026-11-17T13:00+00:00",
@@ -122,14 +272,124 @@
    "u": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/"
   },
   {
-   "d": "2026-11-17T11:44+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Opinion pollster Ipsos 'fesses up to 'cybersecurity incident'",
-   "x": "Market research company brings in external specialists to grok cause and scope",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405"
+   "d": "2026-11-17T12:00+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Dorsett Controls InfoScan",
+   "x": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Siemens Mendix Studio Pro",
+   "x": "View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauth…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "x": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerabi…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Siemens meta-iot2050",
+   "x": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a co…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Siemens SIMATIC WinCC",
+   "x": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the devi…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Siemens RUGGEDCOM APE1808",
+   "x": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later …",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
+   "x": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download dir…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Siemens Industrial Automation Software Products",
+   "x": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-20…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Siemens SIMATIC",
+   "x": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Siemens Industrial Software Products",
+   "x": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-20…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Siemens ROS#",
+   "x": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the genera…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Siemens Simcenter Femap",
+   "x": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execut…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10"
   },
   {
    "d": "2026-11-17T11:20+00:00",
@@ -242,16 +502,6 @@
    "u": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html"
   },
   {
-   "d": "2026-11-17T05:27+00:00",
-   "r": "Ásia",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Japan's Fugaku supercomputer has decidedly un-super security",
-   "x": "Attackers try logging in to Earth’s ninth most powerful machine after status page hack exposed credentials",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333"
-  },
-  {
    "d": "2026-11-17T05:00+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -292,16 +542,6 @@
    "u": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines"
   },
   {
-   "d": "2026-11-16T21:53+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Infoblox customer and staff data exposed in Sharepoint breach",
-   "x": "The company is investigating",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280"
-  },
-  {
    "d": "2026-11-16T21:31+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -322,44 +562,14 @@
    "u": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/"
   },
   {
-   "d": "2026-11-16T20:00+00:00",
-   "r": "Ásia",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
-   "x": "Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users. The post Trump Administration Moves to Block China From Indirec…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/"
-  },
-  {
-   "d": "2026-11-16T19:57+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-   "x": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/"
-  },
-  {
    "d": "2026-11-16T19:56+00:00",
    "r": "Global",
    "t": "Ransomware",
    "s": "Alta",
-   "h": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+   "h": "Ransomware Attacks Increase Behind AI, but Payments Decline",
    "x": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline"
-  },
-  {
-   "d": "2026-11-16T19:52+00:00",
-   "r": "América do Norte",
-   "t": "Geral",
-   "s": "Crítica",
-   "h": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
-   "x": "Critical orgs around the globe under seige",
-   "f": "The Register",
-   "u": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223"
   },
   {
    "d": "2026-11-16T19:10+00:00",
@@ -372,56 +582,6 @@
    "u": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models"
   },
   {
-   "d": "2026-11-16T18:33+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "‘123456’ has been the world’s most popular password for 7 out of the last 8 years",
-   "x": "People never learn",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189"
-  },
-  {
-   "d": "2026-11-16T18:28+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making",
-   "x": "Flaw can take down an entire host, even when the vulnerable service is running inside a container",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144"
-  },
-  {
-   "d": "2026-11-16T18:01+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Ubuntu gets AI-generated security fixes for those feeling brave",
-   "x": "Opt-in Edge archive gives Pro subscribers early access before full testing, while normal updates remain human-validated",
-   "f": "The Register",
-   "u": "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139"
-  },
-  {
-   "d": "2026-11-16T17:03+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Crook turns LearnWorlds' free trials into phishing factory, sends 13,000 fake YouTube copyright notices",
-   "x": "570 bogus accounts, one rewritten welcome email, and a fake YouTube page, but CEO says no breach",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/16/crook-turns-learnworlds-free-trials-into-phishing-factory-sends-13000-fake-youtube-copyright-notices/5310122"
-  },
-  {
-   "d": "2026-11-16T16:43+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Microsoft says months-old bug caused global Microsoft 365 outage",
-   "x": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/"
-  },
-  {
    "d": "2026-11-16T16:36+00:00",
    "r": "Ásia",
    "t": "Vazamento de dados",
@@ -430,26 +590,6 @@
    "x": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks"
-  },
-  {
-   "d": "2026-11-16T16:15+00:00",
-   "r": "Ásia",
-   "t": "Geral",
-   "s": "Média",
-   "h": "US allies deepen deal to guard AI supply chains against 'hostile actors' (cough, China, cough)",
-   "x": "Securing supply chains or coercing other nations to help Washington sideline Beijing and its AI ambitions?",
-   "f": "The Register",
-   "u": "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094"
-  },
-  {
-   "d": "2026-11-16T16:00+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Has AI’s ‘Black October’ changed the way you secure your code?",
-   "x": "PARTNER CONTENT: AI agents are making security vulnerabilities easier to find and exploit in your code. Software engineering and application security teams need new ways to find and fix them",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775"
   },
   {
    "d": "2026-11-16T16:00+00:00",
@@ -462,36 +602,6 @@
    "u": "https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/"
   },
   {
-   "d": "2026-11-16T15:45+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Cursor Supply Chain Attack Started at Fireworks AI",
-   "x": "The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code extension copies. The post Cursor Supply Chain Attack Started at Fireworks AI appeared…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/"
-  },
-  {
-   "d": "2026-11-16T15:44+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Fandango says hackers stole payment card details from checkout pages",
-   "x": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/"
-  },
-  {
-   "d": "2026-11-16T15:31+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
-   "x": "It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028. The post Google Project Zero Sets Course for 30-Day Disclosure Deadline appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/"
-  },
-  {
    "d": "2026-11-16T15:25+00:00",
    "r": "Global",
    "t": "Vazamento de dados",
@@ -502,14 +612,14 @@
    "u": "https://www.infosecurity-magazine.com/news/maileva-docaposte-22-million-breach/"
   },
   {
-   "d": "2026-11-16T15:01+00:00",
+   "d": "2026-11-16T14:22+00:00",
    "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "7 Tips For Complying with CJIS Password and MFA Requirements",
-   "x": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/"
+   "t": "Cripto",
+   "s": "Baixa",
+   "h": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
+   "x": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check"
   },
   {
    "d": "2026-11-16T14:00+00:00",
@@ -522,26 +632,6 @@
    "u": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html"
   },
   {
-   "d": "2026-11-16T14:00+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Google warns that fully-automated AI attacks are coming soon",
-   "x": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/"
-  },
-  {
-   "d": "2026-11-16T14:00+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Google: AI agent turned a security patch into a working exploit with no human help",
-   "x": "Look ma, no human in the loop!",
-   "f": "The Register",
-   "u": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926"
-  },
-  {
    "d": "2026-11-16T13:27+00:00",
    "r": "América do Norte",
    "t": "Vulnerabilidade",
@@ -550,16 +640,6 @@
    "x": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always do…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html"
-  },
-  {
-   "d": "2026-11-16T12:53+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-   "x": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/"
   },
   {
    "d": "2026-11-16T12:34+00:00",
@@ -600,16 +680,6 @@
    "x": "The FBI warns that threat actors are increasingly using open-source AI pentesting tool ARTEX to launch fast, large-scale intrusions worldwide",
    "f": "Infosecurity Magazine",
    "u": "https://www.infosecurity-magazine.com/news/fbi-growing-abuse-ai-pentesting/"
-  },
-  {
-   "d": "2026-11-16T11:18+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Crítica",
-   "h": "Australian retail giant Coles investigates cybersecurity incident",
-   "x": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/"
   },
   {
    "d": "2026-11-16T10:00+00:00",
@@ -692,16 +762,6 @@
    "u": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html"
   },
   {
-   "d": "2026-11-14T08:18+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
-   "x": "Accessing banned content is as easy as whipping out a thesaurus, Parliament's Communications and Digital Committee hears",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302"
-  },
-  {
    "d": "2026-11-13T22:27+00:00",
    "r": "Global",
    "t": "Geral",
@@ -710,16 +770,6 @@
    "x": "It's hard to detect whether someone is using artificial intelligence (AI) to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up"
-  },
-  {
-   "d": "2026-11-13T20:52+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "This year’s bug count just passed 100K",
-   "x": "‘We don’t have a security problem anymore. We have a data problem now’",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882"
   },
   {
    "d": "2026-11-13T20:20+00:00",
@@ -782,16 +832,6 @@
    "u": "https://www.infosecurity-magazine.com/news/hackers-ai-weaker-cyber-attacks/"
   },
   {
-   "d": "2026-11-13T13:14+00:00",
-   "r": "Europa",
-   "t": "Malware / Botnet",
-   "s": "Baixa",
-   "h": "Quantum Systems drones back in the air after malware scare",
-   "x": "Germany's Bundeswehr lifted precautionary grounding after malicious update reportedly reached military servers",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/13/quantum-systems-drones-back-in-the-air-after-malware-scare/5309658"
-  },
-  {
    "d": "2026-11-13T13:00+00:00",
    "r": "Global",
    "t": "Vazamento de dados",
@@ -852,16 +892,6 @@
    "u": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html"
   },
   {
-   "d": "2026-11-13T11:02+00:00",
-   "r": "Europa",
-   "t": "Geral",
-   "s": "Crítica",
-   "h": "Crackdown on UK medical record snooping after staff reported sneaking 300+ times this year",
-   "x": "Watchdog wants assurances from 200 execs that employees aren't poking around patient files they have no business viewing",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/13/crackdown-on-uk-medical-record-snooping-after-staff-reported-sneaking-300-times-this-year/5309421"
-  },
-  {
    "d": "2026-11-13T10:55+00:00",
    "r": "Europa",
    "t": "Ransomware",
@@ -870,16 +900,6 @@
    "x": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. P…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html"
-  },
-  {
-   "d": "2026-11-13T10:15+00:00",
-   "r": "Global",
-   "t": "Operação policial",
-   "s": "Baixa",
-   "h": "Brit police watchdog says cops' use of facial recog risks wrongful arrests",
-   "x": "New report calls for change, highlights hodgepodge governance and misunderstanding about tech’s limitations among officers",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/13/brit-police-watchdog-says-cops-use-of-facial-recog-risks-wrongful-arrests/5309379"
   },
   {
    "d": "2026-11-13T09:15+00:00",
@@ -900,16 +920,6 @@
    "x": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in G…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html"
-  },
-  {
-   "d": "2026-11-13T07:31+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "C++26 stumbles at finish line over Contracts dispute",
-   "x": "ISO working group faces a fight over runtime checks, complexity, and the language's release timetable",
-   "f": "The Register",
-   "u": "https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526"
   },
   {
    "d": "2026-11-13T05:43+00:00",
@@ -942,16 +952,6 @@
    "u": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox"
   },
   {
-   "d": "2026-11-12T20:48+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
-   "x": "Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500"
-  },
-  {
    "d": "2026-11-12T20:09+00:00",
    "r": "Global",
    "t": "Ransomware",
@@ -960,16 +960,6 @@
    "x": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time"
-  },
-  {
-   "d": "2026-11-12T20:08+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Lego marketplace BrickLink in pieces after 'unusual activity' takes it offline for almost a week",
-   "x": "Lego fans demand answers as outage approaches a week with no confirmed cause",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425"
   },
   {
    "d": "2026-11-12T18:07+00:00",
@@ -990,16 +980,6 @@
    "x": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trou…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html"
-  },
-  {
-   "d": "2026-11-12T18:02+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Software Samaritan revamps borked Indian certs to block smart TV ads",
-   "x": "A little tinkering can black hole obnoxious Samsung TV ads and some tracking, until a firmware fix ruins the fun",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/12/software-samaritan-revamps-borked-indian-certs-to-block-smart-tv-ads/5309467"
   },
   {
    "d": "2026-11-12T17:50+00:00",
@@ -1052,16 +1032,6 @@
    "u": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html"
   },
   {
-   "d": "2026-11-12T14:55+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "Microsoft Exchange Server 2016 and 2019 enter their 'permanently vulnerable' era",
-   "x": "Upgrade, migrate, but don't prevaricate – time has run out",
-   "f": "The Register",
-   "u": "https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401"
-  },
-  {
    "d": "2026-11-12T14:30+00:00",
    "r": "Ásia",
    "t": "Geral",
@@ -1092,16 +1062,6 @@
    "u": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html"
   },
   {
-   "d": "2026-11-12T13:02+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Hackers exploiting ScreenConnect plugin flaw to spread malware across hundreds of PCs",
-   "x": "ConnectWise disables third-party extensions in 400 environments as bughunters uncover auth hole may let crims bypass MFA",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361"
-  },
-  {
    "d": "2026-11-12T12:09+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -1120,16 +1080,6 @@
    "x": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-20…",
    "f": "CISA",
    "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02"
-  },
-  {
-   "d": "2026-11-12T12:00+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Siemens RUGGEDCOM APE1808",
-   "x": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilit…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05"
   },
   {
    "d": "2026-11-12T12:00+00:00",
@@ -1162,6 +1112,16 @@
    "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03"
   },
   {
+   "d": "2026-11-12T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Siemens RUGGEDCOM APE1808",
+   "x": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilit…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05"
+  },
+  {
    "d": "2026-11-12T11:51+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -1192,16 +1152,6 @@
    "u": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html"
   },
   {
-   "d": "2026-11-12T11:31+00:00",
-   "r": "Europa",
-   "t": "Geral",
-   "s": "Média",
-   "h": "European tech buyers add digital sovereignty to cyber shopping list",
-   "x": "Sales from EU HQ'd vendor rocket in two years. The Trump affect? Yes but NIS2 and DORA are factors too",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216"
-  },
-  {
    "d": "2026-11-12T11:00+00:00",
    "r": "América do Norte",
    "t": "Vazamento de dados",
@@ -1230,16 +1180,6 @@
    "x": "The UK’s National Cyber Security Centre has launched a new Cyber Adversary Simulation (CyAS) scheme",
    "f": "Infosecurity Magazine",
    "u": "https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/"
-  },
-  {
-   "d": "2026-11-12T09:30+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "London hotel put admin login for booking website on whiteboard behind the front desk",
-   "x": "You could check out more than your room",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889"
   },
   {
    "d": "2026-11-12T09:25+00:00",
@@ -1300,16 +1240,6 @@
    "x": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evid…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html"
-  },
-  {
-   "d": "2026-11-12T04:22+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates",
-   "x": "Couldn’t get the hardware it needed to generate certs, so tried to code a workaround",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/12/disgraced-former-ca-emudhra-blames-buggy-script-for-hopelessly-weak-certificates/5309244"
   },
   {
    "d": "2026-11-12T01:00+00:00",
@@ -1452,16 +1382,6 @@
    "u": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html"
   },
   {
-   "d": "2026-11-11T12:05+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Shipping giant Maersk probes 'IT security incident,' data theft",
-   "x": "Says it 'strongly' suspects attack limited to legacy system, and that nothing sensitive is at risk",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096"
-  },
-  {
    "d": "2026-11-11T12:01+00:00",
    "r": "América do Norte",
    "t": "Geral",
@@ -1470,16 +1390,6 @@
    "x": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. T…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html"
-  },
-  {
-   "d": "2026-11-11T12:00+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-   "x": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html"
   },
   {
    "d": "2026-11-11T10:00+00:00",
