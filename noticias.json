@@ -1,6 +1,246 @@
 {
- "updated": "2026-11-18T04:00:09+00:00",
+ "updated": "2026-11-18T12:55:17+00:00",
  "items": [
+  {
+   "d": "2026-11-18T12:35+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Java4Shell Vulnerability Allows Remote Attacks on Major Java Apps",
+   "x": "A critical OpenJDK vulnerability could expose major Java applications to remote code execution, prompting CISA to urge organizations implement mitigations",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/java4shell-vulnerability-remote/"
+  },
+  {
+   "d": "2026-11-18T12:15+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+   "x": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure da…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html"
+  },
+  {
+   "d": "2026-11-18T12:14+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Média",
+   "h": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
+   "x": "Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview. The post Microsoft Takes Perception Agentic Security Platform Out of Preview appeared …",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/"
+  },
+  {
+   "d": "2026-11-18T12:00+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
+   "x": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on S…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/"
+  },
+  {
+   "d": "2026-11-18T11:55+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+   "x": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this we…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html"
+  },
+  {
+   "d": "2026-11-18T11:50+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Crítica",
+   "h": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+   "x": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/"
+  },
+  {
+   "d": "2026-11-18T11:45+00:00",
+   "r": "Europa",
+   "t": "Espionagem",
+   "s": "Alta",
+   "h": "Russian Espionage Actor Star Blizzard Focuses on Cloud Identities for Mass Data Theft",
+   "x": "New Google analysis of Star Blizzard, aka Cold Relic, highlighted the group’s growing focus on compromising cloud environments to steal data and facilitate further attacks",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/russian-star-blizzard-cloud-data/"
+  },
+  {
+   "d": "2026-11-18T11:43+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Baixa",
+   "h": "Chrome 158 Patches 204 Vulnerabilities",
+   "x": "Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs. The post Chrome 158 Patches 204 Vulnerabilities appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/"
+  },
+  {
+   "d": "2026-11-18T11:05+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+   "x": "Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts. The post Microsoft Agent Framework Releases Poisoned With Credential Stealer appeared fi…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/"
+  },
+  {
+   "d": "2026-11-18T11:03+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
+   "x": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now d…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html"
+  },
+  {
+   "d": "2026-11-18T10:37+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Critical Perforce Puppet RCE Exploited in Attacks",
+   "x": "Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server. The post Critical Perforce Puppet RCE Exploited in Attacks appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+  },
+  {
+   "d": "2026-11-18T10:35+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Apache warns of Roller RCE vulnerability exploited in attacks",
+   "x": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"
+  },
+  {
+   "d": "2026-11-18T10:00+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Média",
+   "h": "Three AI Models Agree on Just One of 121 Potential Code Flaws",
+   "x": "Echo tested Claude Mythos, GPT-5.6 Sol and GLM-5.3 on the same code and found little overlap",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/ai-models-vulnerability-findings/"
+  },
+  {
+   "d": "2026-11-18T09:30+00:00",
+   "r": "Europa",
+   "t": "Geral",
+   "s": "Média",
+   "h": "UK MPs want AI watchdog with power to pull the plug on dangerous models",
+   "x": "Parliamentary committee says tech giants can't be left to mark their own homework when it comes to AI safety",
+   "f": "The Register",
+   "u": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567"
+  },
+  {
+   "d": "2026-11-18T09:30+00:00",
+   "r": "Europa",
+   "t": "Geral",
+   "s": "Baixa",
+   "h": "Watchdog Warns UK Government Is Falling Short on Risk Management",
+   "x": "National Audit Office report claims risk management failures are leading to poor government decisions",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/watchdog-government-risk/"
+  },
+  {
+   "d": "2026-11-18T09:24+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Microsoft announces Windows Server 2028 with hardened security",
+   "x": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/"
+  },
+  {
+   "d": "2026-11-18T08:47+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+   "x": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 950 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/"
+  },
+  {
+   "d": "2026-11-18T08:24+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+   "x": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to i…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html"
+  },
+  {
+   "d": "2026-11-18T08:24+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+   "x": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS sco…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html"
+  },
+  {
+   "d": "2026-11-18T08:24+00:00",
+   "r": "Global",
+   "t": "Cripto",
+   "s": "Média",
+   "h": "British Scattered Spider hacker sentenced to 6 years in prison",
+   "x": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/"
+  },
+  {
+   "d": "2026-11-18T07:43+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+   "x": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/"
+  },
+  {
+   "d": "2026-11-18T06:45+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Baixa",
+   "h": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+   "x": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz.…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html"
+  },
+  {
+   "d": "2026-11-18T05:58+00:00",
+   "r": "Europa",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+   "x": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-p…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html"
+  },
+  {
+   "d": "2026-11-18T04:33+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps",
+   "x": "Attackers can crash the JVM or achieve unauthenticated RCE",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661"
+  },
   {
    "d": "2026-11-18T02:52+00:00",
    "r": "Global",
@@ -232,26 +472,6 @@
    "u": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/"
   },
   {
-   "d": "2026-11-17T14:14+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
-   "x": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed. The post Fandango Warns Ticket Buyers of Payment Card Data Exposure appeare…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/"
-  },
-  {
-   "d": "2026-11-17T14:00+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-   "x": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/"
-  },
-  {
    "d": "2026-11-17T13:45+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -270,16 +490,6 @@
    "x": "Even strict authentication mode has a hole, we're told, while basic exploit defenses are missing from the firmware",
    "f": "The Register",
    "u": "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197"
-  },
-  {
-   "d": "2026-11-17T13:24+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-   "x": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/"
   },
   {
    "d": "2026-11-17T13:12+00:00",
@@ -302,36 +512,6 @@
    "u": "https://www.infosecurity-magazine.com/news/microsoft-phishing-service-outage/"
   },
   {
-   "d": "2026-11-17T12:59+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Access Dental Management Data Breach Impacts Over 340,000",
-   "x": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/"
-  },
-  {
-   "d": "2026-11-17T12:51+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-   "x": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion. The post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity appeared first on Secu…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/"
-  },
-  {
-   "d": "2026-11-17T12:28+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
-   "x": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/"
-  },
-  {
    "d": "2026-11-17T12:25+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -350,16 +530,6 @@
    "x": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Nei…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html"
-  },
-  {
-   "d": "2026-11-17T12:00+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-   "x": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/"
   },
   {
    "d": "2026-11-17T12:00+00:00",
@@ -572,16 +742,6 @@
    "u": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/"
   },
   {
-   "d": "2026-11-17T07:25+00:00",
-   "r": "Europa",
-   "t": "Ransomware",
-   "s": "Alta",
-   "h": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-   "x": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/"
-  },
-  {
    "d": "2026-11-17T07:12+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -622,26 +782,6 @@
    "u": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html"
   },
   {
-   "d": "2026-11-17T02:12+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-   "x": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts des…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/"
-  },
-  {
-   "d": "2026-11-16T22:54+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-   "x": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from acc…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/"
-  },
-  {
    "d": "2026-11-16T22:08+00:00",
    "r": "Global",
    "t": "Geral",
@@ -660,16 +800,6 @@
    "x": "The company is investigating",
    "f": "The Register",
    "u": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280"
-  },
-  {
-   "d": "2026-11-16T21:31+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-   "x": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/"
   },
   {
    "d": "2026-11-16T19:56+00:00",
@@ -1370,136 +1500,6 @@
    "x": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between V…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html"
-  },
-  {
-   "d": "2026-11-12T12:00+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Siemens RUGGEDCOM APE1808",
-   "x": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilit…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05"
-  },
-  {
-   "d": "2026-11-12T12:00+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Siemens Desigo, Gridscale",
-   "x": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-20…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02"
-  },
-  {
-   "d": "2026-11-12T12:00+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Siemens RUGGEDCOM APE1808",
-   "x": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerabil…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04"
-  },
-  {
-   "d": "2026-11-12T12:00+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Siemens Industrial Edge Management",
-   "x": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action …",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03"
-  },
-  {
-   "d": "2026-11-12T12:00+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Siemens Building Automation and Energy Products",
-   "x": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01"
-  },
-  {
-   "d": "2026-11-12T11:51+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
-   "x": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the serve…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html"
-  },
-  {
-   "d": "2026-11-12T11:51+00:00",
-   "r": "Global",
-   "t": "Phishing / Golpes",
-   "s": "Média",
-   "h": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-   "x": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on pu…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html"
-  },
-  {
-   "d": "2026-11-12T11:33+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-   "x": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, ca…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html"
-  },
-  {
-   "d": "2026-11-12T11:31+00:00",
-   "r": "Europa",
-   "t": "Geral",
-   "s": "Média",
-   "h": "European tech buyers add digital sovereignty to cyber shopping list",
-   "x": "Sales from EU HQ'd vendor rocket in two years. The Trump affect? Yes but NIS2 and DORA are factors too",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216"
-  },
-  {
-   "d": "2026-11-12T11:00+00:00",
-   "r": "América do Norte",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Inside an AI Attack Against a US Retailer",
-   "x": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer"
-  },
-  {
-   "d": "2026-11-12T10:45+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Security Teams Must Shift from Patching to Mitigation in the AI Era",
-   "x": "Symantec’s Dick O’Brien says the rapid closure of the patch window means organizations must move beyond patching and adopt an assume exploit mindset",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/shift-patching-mitigation-ai-era/"
-  },
-  {
-   "d": "2026-11-12T10:00+00:00",
-   "r": "Europa",
-   "t": "Geral",
-   "s": "Média",
-   "h": "NCSC Launches Cyber Adversary Testing to Boost Resilience",
-   "x": "The UK’s National Cyber Security Centre has launched a new Cyber Adversary Simulation (CyAS) scheme",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/"
-  },
-  {
-   "d": "2026-11-12T09:30+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "London hotel put admin login for booking website on whiteboard behind the front desk",
-   "x": "You could check out more than your room",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889"
   }
  ]
 }
