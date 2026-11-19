@@ -1,6 +1,176 @@
 {
- "updated": "2026-11-19T02:43:04+00:00",
+ "updated": "2026-11-19T11:04:00+00:00",
  "items": [
+  {
+   "d": "2026-11-19T11:01+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "TfL takes Oyster photocard website offline after attackers compromise customer accounts",
+   "x": "Around 265,000 customers potentially affected as London transport operator grapples with another security breach",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985"
+  },
+  {
+   "d": "2026-11-19T10:41+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
+   "x": "The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation. The post Splunk Patches Nearly 140 Flaws Across Three Core Products appear…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/"
+  },
+  {
+   "d": "2026-11-19T10:35+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Média",
+   "h": "Microsoft confirms app installation, launch issues after hotpatch",
+   "x": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/"
+  },
+  {
+   "d": "2026-11-19T10:30+00:00",
+   "r": "Europa",
+   "t": "Geral",
+   "s": "Média",
+   "h": "A Fifth of UK Employees Share Passwords with AI",
+   "x": "Dashlane research reveals UK workers are sharing passwords with AI tools and granting access to sensitive data, raising major enterprise security concerns",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/"
+  },
+  {
+   "d": "2026-11-19T10:26+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
+   "x": "The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code. The post F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/"
+  },
+  {
+   "d": "2026-11-19T10:15+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Sticky note on monitor provided keys to the company’s kingdom",
+   "x": "Don't leave your credentials out in public, where any visitor can see them.",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908"
+  },
+  {
+   "d": "2026-11-19T09:31+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+   "x": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have t…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html"
+  },
+  {
+   "d": "2026-11-19T09:23+00:00",
+   "r": "Global",
+   "t": "Ransomware",
+   "s": "Alta",
+   "h": "NVIDIA investigating Gentlemen ransomware breach claims",
+   "x": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/"
+  },
+  {
+   "d": "2026-11-19T09:20+00:00",
+   "r": "Ásia",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Rakuten Securities Breach Could Impact 15 Million Customers",
+   "x": "Japanese broker Rakuten Securities has revealed a data breach involving the account details of 15 million customers",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/"
+  },
+  {
+   "d": "2026-11-19T09:10+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Alta",
+   "h": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
+   "x": "GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact. The post Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories appeared fi…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/"
+  },
+  {
+   "d": "2026-11-19T08:42+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+   "x": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can r…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html"
+  },
+  {
+   "d": "2026-11-19T08:14+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+   "x": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behin…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html"
+  },
+  {
+   "d": "2026-11-19T08:00+00:00",
+   "r": "América do Norte",
+   "t": "Ransomware",
+   "s": "Alta",
+   "h": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+   "x": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Elec…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html"
+  },
+  {
+   "d": "2026-11-19T08:00+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
+   "x": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top-5 most attacked countries globally.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge"
+  },
+  {
+   "d": "2026-11-19T07:45+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
+   "x": "Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed. The post PHP Readies Critical Security Updates to Patch Another RCE Flaw appeared first on SecurityWe…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/"
+  },
+  {
+   "d": "2026-11-19T04:33+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+   "x": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html"
+  },
+  {
+   "d": "2026-11-19T03:25+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+   "x": "The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds. The post Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 B…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/"
+  },
   {
    "d": "2026-11-18T23:08+00:00",
    "r": "Europa",
@@ -176,8 +346,8 @@
    "r": "Global",
    "t": "Geral",
    "s": "Média",
-   "h": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
-   "x": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity. The post VeroSecurity Raises $11 Million for AI Security Engineering Platform appeared first on SecurityWee…",
+   "h": "Vero Security Raises $11 Million for AI Security Engineering Platform",
+   "x": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity. The post Vero Security Raises $11 Million for AI Security Engineering Platform appeared first on SecurityWe…",
    "f": "SecurityWeek",
    "u": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/"
   },
@@ -352,26 +522,6 @@
    "u": "https://www.infosecurity-magazine.com/news/russian-star-blizzard-cloud-data/"
   },
   {
-   "d": "2026-11-18T11:43+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Baixa",
-   "h": "Chrome 158 Patches 204 Vulnerabilities",
-   "x": "Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs. The post Chrome 158 Patches 204 Vulnerabilities appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/"
-  },
-  {
-   "d": "2026-11-18T11:05+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
-   "x": "Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts. The post Microsoft Agent Framework Releases Poisoned With Credential Stealer appeared fi…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/"
-  },
-  {
    "d": "2026-11-18T11:03+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -380,16 +530,6 @@
    "x": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now d…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html"
-  },
-  {
-   "d": "2026-11-18T10:37+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Critical Perforce Puppet RCE Exploited in Attacks",
-   "x": "Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server. The post Critical Perforce Puppet RCE Exploited in Attacks appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
   },
   {
    "d": "2026-11-18T10:35+00:00",
@@ -442,16 +582,6 @@
    "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/"
   },
   {
-   "d": "2026-11-18T08:47+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
-   "x": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 950 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/"
-  },
-  {
    "d": "2026-11-18T08:24+00:00",
    "r": "América do Norte",
    "t": "Vulnerabilidade",
@@ -480,16 +610,6 @@
    "x": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
    "f": "BleepingComputer",
    "u": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/"
-  },
-  {
-   "d": "2026-11-18T07:43+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
-   "x": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover appe…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/"
   },
   {
    "d": "2026-11-18T06:45+00:00",
@@ -630,26 +750,6 @@
    "x": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach"
-  },
-  {
-   "d": "2026-11-17T18:21+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-   "x": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/"
-  },
-  {
-   "d": "2026-11-17T18:04+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Tor releases emergency update amid ongoing DDoS attack",
-   "x": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. …",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/"
   },
   {
    "d": "2026-11-17T16:15+00:00",
@@ -1400,106 +1500,6 @@
    "x": "While Microsoft resolves the global M365 and Outlook outage, cybersecurity teams remain on high alert as cybercriminals prepare to exploit the chaos",
    "f": "Infosecurity Magazine",
    "u": "https://www.infosecurity-magazine.com/news/microsoft-365-outage-security/"
-  },
-  {
-   "d": "2026-11-13T12:00+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "x": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
-  },
-  {
-   "d": "2026-11-13T11:52+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Crítica",
-   "h": "When an AI Agent Goes Wrong, Can You Stop It?",
-   "x": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because …",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html"
-  },
-  {
-   "d": "2026-11-13T11:15+00:00",
-   "r": "Europa",
-   "t": "Phishing / Golpes",
-   "s": "Média",
-   "h": "Phishing Rises Three Times Faster in Europe Than Globally, Proofpoint Finds",
-   "x": "New Proofpoint research reveals phishing detections surged 4.5x across Europe year over year, compared with 1.5x globally",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/phishing-rises-faster-europe/"
-  },
-  {
-   "d": "2026-11-13T11:10+00:00",
-   "r": "Ásia",
-   "t": "Geral",
-   "s": "Média",
-   "h": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
-   "x": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stock…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html"
-  },
-  {
-   "d": "2026-11-13T11:02+00:00",
-   "r": "Europa",
-   "t": "Geral",
-   "s": "Crítica",
-   "h": "Crackdown on UK medical record snooping after staff reported sneaking 300+ times this year",
-   "x": "Watchdog wants assurances from 200 execs that employees aren't poking around patient files they have no business viewing",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/13/crackdown-on-uk-medical-record-snooping-after-staff-reported-sneaking-300-times-this-year/5309421"
-  },
-  {
-   "d": "2026-11-13T10:55+00:00",
-   "r": "Europa",
-   "t": "Ransomware",
-   "s": "Alta",
-   "h": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-   "x": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. P…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html"
-  },
-  {
-   "d": "2026-11-13T10:15+00:00",
-   "r": "Global",
-   "t": "Operação policial",
-   "s": "Baixa",
-   "h": "Brit police watchdog says cops' use of facial recog risks wrongful arrests",
-   "x": "New report calls for change, highlights hodgepodge governance and misunderstanding about tech’s limitations among officers",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/13/brit-police-watchdog-says-cops-use-of-facial-recog-risks-wrongful-arrests/5309379"
-  },
-  {
-   "d": "2026-11-13T09:15+00:00",
-   "r": "Global",
-   "t": "Ransomware",
-   "s": "Alta",
-   "h": "AI Set to Revolutionize Ransomware Following “Stagnant” Few Years",
-   "x": "TrendAI’s Bob McArdle said ransomware techniques will change significantly in the next year, with AI making attacks more dangerous and profitable",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/ai-revolutionize-ransomware/"
-  },
-  {
-   "d": "2026-11-13T08:05+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-   "x": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in G…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html"
-  },
-  {
-   "d": "2026-11-13T07:31+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "C++26 stumbles at finish line over Contracts dispute",
-   "x": "ISO working group faces a fight over runtime checks, complexity, and the language's release timetable",
-   "f": "The Register",
-   "u": "https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526"
   }
  ]
 }
