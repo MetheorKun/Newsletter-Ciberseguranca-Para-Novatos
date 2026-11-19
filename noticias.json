@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-18T21:04:31+00:00",
+ "updated": "2026-11-19T02:43:04+00:00",
  "items": [
+  {
+   "d": "2026-11-18T23:08+00:00",
+   "r": "Europa",
+   "t": "Ransomware",
+   "s": "Alta",
+   "h": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+   "x": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [..…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/"
+  },
+  {
+   "d": "2026-11-18T22:38+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Get ready for another critical PHP security release to drop",
+   "x": "At least one dangerous RCE bug will get a fix on Thursday",
+   "f": "The Register",
+   "u": "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911"
+  },
+  {
+   "d": "2026-11-18T21:59+00:00",
+   "r": "Europa",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+   "x": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another"
+  },
+  {
+   "d": "2026-11-18T21:11+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "AI found more critical bugs in another widely used technology running 225M websites",
+   "x": "Open source NGINX joins patchapalooza",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887"
+  },
   {
    "d": "2026-11-18T20:49+00:00",
    "r": "Global",
@@ -620,16 +660,6 @@
    "x": "Ride-hailing biz says stolen credentials allowed crooks to help themselves to driver's license data",
    "f": "The Register",
    "u": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464"
-  },
-  {
-   "d": "2026-11-17T16:00+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-   "x": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/"
   },
   {
    "d": "2026-11-17T15:30+00:00",
@@ -1470,36 +1500,6 @@
    "x": "ISO working group faces a fight over runtime checks, complexity, and the language's release timetable",
    "f": "The Register",
    "u": "https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526"
-  },
-  {
-   "d": "2026-11-13T05:43+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-   "x": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integration…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html"
-  },
-  {
-   "d": "2026-11-12T22:46+00:00",
-   "r": "Global",
-   "t": "Cripto",
-   "s": "Média",
-   "h": "Getting Past the Post-Quantum Cryptography Discovery Phase",
-   "x": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC).",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery"
-  },
-  {
-   "d": "2026-11-12T21:18+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Cyber Experts Weigh In: How to Fight Artex & AntiFox",
-   "x": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox"
   }
  ]
 }
