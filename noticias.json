@@ -1,13 +1,83 @@
 {
- "updated": "2026-11-20T01:37:42+00:00",
+ "updated": "2026-11-20T09:36:15+00:00",
  "items": [
+  {
+   "d": "2026-11-20T09:25+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Windows 11 KB5132057 update released with 28 changes and fixes",
+   "x": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/"
+  },
+  {
+   "d": "2026-11-20T09:08+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "N-able Blames Service Disruption on Cyberattack",
+   "x": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/"
+  },
+  {
+   "d": "2026-11-20T09:00+00:00",
+   "r": "Ásia",
+   "t": "Cripto",
+   "s": "Média",
+   "h": "Suspected North Korea-Aligned Group Hides C2 on Solana Blockchain",
+   "x": "Cisco Talos tied a RAT that hides C2 on Solana and survives Windows resets to UAT-12643",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/"
+  },
+  {
+   "d": "2026-11-20T07:35+00:00",
+   "r": "Global",
+   "t": "Ransomware",
+   "s": "Média",
+   "h": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+   "x": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on Se…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/"
+  },
+  {
+   "d": "2026-11-20T07:11+00:00",
+   "r": "Global",
+   "t": "Phishing / Golpes",
+   "s": "Média",
+   "h": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+   "x": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates …",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html"
+  },
+  {
+   "d": "2026-11-20T06:33+00:00",
+   "r": "Ásia",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+   "x": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html"
+  },
+  {
+   "d": "2026-11-20T05:30+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+   "x": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administ…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html"
+  },
   {
    "d": "2026-11-20T00:57+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
    "s": "Crítica",
    "h": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
-   "x": "Critical Virtzilla bugs, plus a strange Digital Ocean reaction to a nested virtualization issue",
+   "x": "Critical Virtzilla bugs allow authentication bypass, as a nested virtualization issue got Digital Ocean ducking",
    "f": "The Register",
    "u": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193"
   },
@@ -216,7 +286,7 @@
    "r": "Global",
    "t": "Vulnerabilidade",
    "s": "Crítica",
-   "h": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+   "h": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
    "x": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions ar…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html"
@@ -442,16 +512,6 @@
    "u": "https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/"
   },
   {
-   "d": "2026-11-19T10:26+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
-   "x": "The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code. The post F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/"
-  },
-  {
    "d": "2026-11-19T10:15+00:00",
    "r": "Global",
    "t": "Geral",
@@ -492,21 +552,11 @@
    "u": "https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/"
   },
   {
-   "d": "2026-11-19T09:10+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Alta",
-   "h": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
-   "x": "GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact. The post Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories appeared fi…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/"
-  },
-  {
    "d": "2026-11-19T08:42+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+   "s": "Crítica",
+   "h": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
    "x": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can r…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html"
@@ -567,7 +617,7 @@
    "t": "Vulnerabilidade",
    "s": "Crítica",
    "h": "Another critical PHP security release has dropped",
-   "x": "At least one dangerous RCE bug gota fix on Thursday",
+   "x": "At least one dangerous RCE bug got a fix on Thursday",
    "f": "The Register",
    "u": "https://www.theregister.com/patches/2026/11/18/another-critical-php-security-release-has-dropped/5310911"
   },
@@ -680,16 +730,6 @@
    "x": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
-  },
-  {
-   "d": "2026-11-18T16:58+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-   "x": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/"
   },
   {
    "d": "2026-11-18T16:55+00:00",
@@ -1460,46 +1500,6 @@
    "x": "Maileva breach exposed names and postal addresses of 22 million people",
    "f": "Infosecurity Magazine",
    "u": "https://www.infosecurity-magazine.com/news/maileva-docaposte-22-million-breach/"
-  },
-  {
-   "d": "2026-11-16T14:22+00:00",
-   "r": "América do Norte",
-   "t": "Cripto",
-   "s": "Baixa",
-   "h": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
-   "x": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check"
-  },
-  {
-   "d": "2026-11-16T14:00+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-   "x": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, …",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html"
-  },
-  {
-   "d": "2026-11-16T14:00+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Google: AI agent turned a security patch into a working exploit with no human help",
-   "x": "Look ma, no human in the loop!",
-   "f": "The Register",
-   "u": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926"
-  },
-  {
-   "d": "2026-11-16T13:27+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-   "x": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always do…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html"
   }
  ]
 }
