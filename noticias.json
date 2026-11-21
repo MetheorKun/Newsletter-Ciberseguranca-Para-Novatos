@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-20T18:14:50+00:00",
+ "updated": "2026-11-21T00:06:14+00:00",
  "items": [
+  {
+   "d": "2026-11-20T23:28+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "PHP 8.6: Things are gonna get a lot more strict around here",
+   "x": "Like a parent disciplining a misbehaving child, PHP’s annual update clamps down on loose default behaviors to curb malicious hacker horseplay.",
+   "f": "The Register",
+   "u": "https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486"
+  },
+  {
+   "d": "2026-11-20T21:27+00:00",
+   "r": "Global",
+   "t": "Phishing / Golpes",
+   "s": "Média",
+   "h": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers",
+   "x": "No financial details, but plenty of other clues",
+   "f": "The Register",
+   "u": "https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478"
+  },
+  {
+   "d": "2026-11-20T21:03+00:00",
+   "r": "Ásia",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+   "x": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day"
+  },
+  {
+   "d": "2026-11-20T20:42+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Signal slams door on prying AI agents to protect privacy",
+   "x": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466"
+  },
+  {
+   "d": "2026-11-20T18:51+00:00",
+   "r": "América do Norte",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+   "x": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications c…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"
+  },
+  {
+   "d": "2026-11-20T18:35+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "In Security, Words Matter as Much as Tools, Maybe More",
+   "x": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cybersecurity-operations/security-words-matter"
+  },
+  {
+   "d": "2026-11-20T17:57+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+   "x": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871,…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html"
+  },
   {
    "d": "2026-11-20T17:30+00:00",
    "r": "Global",
@@ -20,6 +90,16 @@
    "x": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said",
    "f": "The Register",
    "u": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382"
+  },
+  {
+   "d": "2026-11-20T17:04+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+   "x": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry"
   },
   {
    "d": "2026-11-20T16:58+00:00",
@@ -160,6 +240,16 @@
    "x": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously …",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html"
+  },
+  {
+   "d": "2026-11-20T12:00+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+   "x": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Qu…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog"
   },
   {
    "d": "2026-11-20T11:55+00:00",
@@ -580,16 +670,6 @@
    "x": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday"
-  },
-  {
-   "d": "2026-11-19T13:08+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-   "x": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"
   },
   {
    "d": "2026-11-19T12:00+00:00",
@@ -1353,23 +1433,13 @@
   },
   {
    "d": "2026-11-17T12:00+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "x": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerabi…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog"
-  },
-  {
-   "d": "2026-11-17T12:00+00:00",
    "r": "Europa",
    "t": "Vulnerabilidade",
    "s": "Crítica",
-   "h": "Siemens meta-iot2050",
-   "x": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a co…",
+   "h": "Siemens RUGGEDCOM APE1808",
+   "x": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later …",
    "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11"
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07"
   },
   {
    "d": "2026-11-17T12:00+00:00",
@@ -1386,10 +1456,20 @@
    "r": "Europa",
    "t": "Vulnerabilidade",
    "s": "Crítica",
-   "h": "Siemens RUGGEDCOM APE1808",
-   "x": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later …",
+   "h": "Siemens meta-iot2050",
+   "x": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a co…",
    "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07"
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11"
+  },
+  {
+   "d": "2026-11-17T12:00+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "x": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerabi…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog"
   },
   {
    "d": "2026-11-17T11:44+00:00",
@@ -1420,86 +1500,6 @@
    "x": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html"
-  },
-  {
-   "d": "2026-11-17T10:15+00:00",
-   "r": "Europa",
-   "t": "Phishing / Golpes",
-   "s": "Média",
-   "h": "ICO Issues GTA 6 Scam Warning as Release Date Nears",
-   "x": "The UK's Information Commissioner’s Office has warned of Grand Theft Auto 6-related cyber-attacks",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/ico-gta-6-scam-warning-release/"
-  },
-  {
-   "d": "2026-11-17T09:30+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Fully Autonomous Agentic Attacks Are Three Months Away, Google Warns",
-   "x": "Google Threat Intelligence Group warns of “paradigm shift” in use of agentic pen-test frameworks",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/fully-autonomous-agentic-attacks/"
-  },
-  {
-   "d": "2026-11-17T07:12+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-   "x": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html"
-  },
-  {
-   "d": "2026-11-17T06:29+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Baixa",
-   "h": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-   "x": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html"
-  },
-  {
-   "d": "2026-11-17T05:27+00:00",
-   "r": "Ásia",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Japan's Fugaku supercomputer has decidedly un-super security",
-   "x": "Attackers try logging in to Earth’s ninth most powerful machine after status page hack exposed credentials",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333"
-  },
-  {
-   "d": "2026-11-17T05:00+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-   "x": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of se…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html"
-  },
-  {
-   "d": "2026-11-16T22:08+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
-   "x": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines"
-  },
-  {
-   "d": "2026-11-16T21:53+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Infoblox customer and staff data exposed in Sharepoint breach",
-   "x": "The company is investigating",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280"
   }
  ]
 }
