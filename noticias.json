@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-22T22:17:11+00:00",
+ "updated": "2026-11-23T02:56:56+00:00",
  "items": [
+  {
+   "d": "2026-11-23T00:23+00:00",
+   "r": "Ásia",
+   "t": "Geral",
+   "s": "Média",
+   "h": "$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall",
+   "x": "PLUS: Lenovo's infra group finally makes big profit; Indonesia’s glaciers are gone; Australian bank releases its AI bug-finder; and more!",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532"
+  },
   {
    "d": "2026-11-22T18:45+00:00",
    "r": "Global",
@@ -360,6 +370,16 @@
    "x": "A new Rubrik report has shown that ransomware victims face 20-day median recovery time, with 28% of recovery cases taking longer than six weeks",
    "f": "Infosecurity Magazine",
    "u": "https://www.infosecurity-magazine.com/news/ransomware-recovery-20-days/"
+  },
+  {
+   "d": "2026-11-20T13:51+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+   "x": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools"
   },
   {
    "d": "2026-11-20T13:18+00:00",
@@ -1480,26 +1500,6 @@
    "x": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-20…",
    "f": "CISA",
    "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04"
-  },
-  {
-   "d": "2026-11-17T12:00+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Siemens ROS#",
-   "x": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the genera…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06"
-  },
-  {
-   "d": "2026-11-17T12:00+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Siemens SIMATIC",
-   "x": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08"
   }
  ]
 }
