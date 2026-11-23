@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-23T02:56:56+00:00",
+ "updated": "2026-11-23T11:54:25+00:00",
  "items": [
+  {
+   "d": "2026-11-23T11:48+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Cleverbridge admits attackers stole customers' credit card and CVV numbers. Yep, you read that right",
+   "x": "Payments platform hasn't disclosed how the data was captured or the scale of the breach",
+   "f": "The Register",
+   "u": "https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573"
+  },
+  {
+   "d": "2026-11-23T11:44+00:00",
+   "r": "Global",
+   "t": "Phishing / Golpes",
+   "s": "Alta",
+   "h": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
+   "x": "Backdoors on low-cost consumer devices served modules for ad fraud and for turning devices into residential proxies. The post BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted appeared firs…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/"
+  },
+  {
+   "d": "2026-11-23T11:35+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks",
+   "x": "Threat actors could exploit them to leak or modify server information and to execute commands as root. The post SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/"
+  },
+  {
+   "d": "2026-11-23T11:31+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
+   "x": "CrowdStrike expects the combined company to have more than $10 billion in annual recurring revenue. The post CrowdStrike to Acquire Zscaler in $43.9 Billion Deal appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/"
+  },
+  {
+   "d": "2026-11-23T10:45+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Cleverbridge Confirms Customers’ Payment Card Data Breached",
+   "x": "The stolen information reportedly includes card numbers and security codes stored by Cleverbridge, putting affected individuals at immediate risk of fraud",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/cleverbridge-payment-card-breached/"
+  },
+  {
+   "d": "2026-11-23T10:00+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Critical Cisco Expressway Flaw Exploited in Attacks",
+   "x": "Researchers warn that CVE-2026-76466, with a CVSS score of 9.8, is being actively exploited",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/critical-cisco-expressway-flaw/"
+  },
+  {
+   "d": "2026-11-23T09:30+00:00",
+   "r": "Global",
+   "t": "Phishing / Golpes",
+   "s": "Média",
+   "h": "Badbox Returns to Spread Ad Fraud and Proxyjacking Payloads",
+   "x": "Human Satori researchers claim Badbox 3.0 is responsible for 40 billion bid requests a day",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/badbox-spread-ad-fraud/"
+  },
+  {
+   "d": "2026-11-23T09:11+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+   "x": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html"
+  },
+  {
+   "d": "2026-11-23T09:11+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Média",
+   "h": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+   "x": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/"
+  },
+  {
+   "d": "2026-11-23T09:04+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+   "x": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a securit…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html"
+  },
+  {
+   "d": "2026-11-23T08:42+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "When Microsoft, Apple, and the FAA can't keep it up, it's a system of a down",
+   "x": "Outage after outage after outage is a syndrome that needs radical treatment",
+   "f": "The Register",
+   "u": "https://www.theregister.com/columnists/2026/11/23/when-microsoft-apple-and-the-faa-cant-keep-it-up-its-a-system-of-a-down/5311363"
+  },
+  {
+   "d": "2026-11-23T08:24+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+   "x": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in …",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html"
+  },
+  {
+   "d": "2026-11-23T07:44+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+   "x": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"
+  },
+  {
+   "d": "2026-11-23T04:39+00:00",
+   "r": "Ásia",
+   "t": "Malware / Botnet",
+   "s": "Crítica",
+   "h": "Google claims last week’s critical VMware bug was under attack in September",
+   "x": "China-linked ARMORY CASTLE knew about it weeks before it unleashed five custom malware tools targeting vCenter",
+   "f": "The Register",
+   "u": "https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547"
+  },
   {
    "d": "2026-11-23T00:23+00:00",
    "r": "Ásia",
@@ -180,6 +320,16 @@
    "x": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KE…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"
+  },
+  {
+   "d": "2026-11-21T01:31+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+   "x": "Identity, runtime and development controls are converging as enterprises are tasked with keeping agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges"
   },
   {
    "d": "2026-11-21T00:36+00:00",
@@ -482,26 +632,6 @@
    "u": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263"
   },
   {
-   "d": "2026-11-20T10:57+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-   "x": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/"
-  },
-  {
-   "d": "2026-11-20T10:51+00:00",
-   "r": "Europa",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
-   "x": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWe…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/"
-  },
-  {
    "d": "2026-11-20T10:38+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -510,16 +640,6 @@
    "x": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Atta…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html"
-  },
-  {
-   "d": "2026-11-20T10:34+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
-   "x": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/"
   },
   {
    "d": "2026-11-20T10:32+00:00",
@@ -540,26 +660,6 @@
    "x": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html"
-  },
-  {
-   "d": "2026-11-20T09:25+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Windows 11 KB5132057 update released with 28 changes and fixes",
-   "x": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/"
-  },
-  {
-   "d": "2026-11-20T09:08+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "N-able Blames Service Disruption on Cyberattack",
-   "x": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/"
   },
   {
    "d": "2026-11-20T09:00+00:00",
@@ -1400,106 +1500,6 @@
    "x": "Even strict authentication mode has a hole, we're told, while basic exploit defenses are missing from the firmware",
    "f": "The Register",
    "u": "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197"
-  },
-  {
-   "d": "2026-11-17T13:12+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Grok Bots Attempt to Access Corporate Data Without User Approval",
-   "x": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner permission.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval"
-  },
-  {
-   "d": "2026-11-17T13:00+00:00",
-   "r": "Global",
-   "t": "Phishing / Golpes",
-   "s": "Alta",
-   "h": "Microsoft Warns of Coordinated Phishing Campaign Leveraging M365 Service Outage",
-   "x": "Microsoft said the high volume campaign was likely designed to capture user credentials, and urged organizations to investigate signs of compromise",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/microsoft-phishing-service-outage/"
-  },
-  {
-   "d": "2026-11-17T12:25+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-   "x": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"
-  },
-  {
-   "d": "2026-11-17T12:14+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-   "x": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Nei…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html"
-  },
-  {
-   "d": "2026-11-17T12:00+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Siemens Simcenter Femap",
-   "x": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execut…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10"
-  },
-  {
-   "d": "2026-11-17T12:00+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Dorsett Controls InfoScan",
-   "x": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01"
-  },
-  {
-   "d": "2026-11-17T12:00+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Siemens Mendix Studio Pro",
-   "x": "View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauth…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05"
-  },
-  {
-   "d": "2026-11-17T12:00+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
-   "x": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download dir…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02"
-  },
-  {
-   "d": "2026-11-17T12:00+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Critical Java Vulnerability Requires Immediate Patching",
-   "x": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938 . This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 d…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching"
-  },
-  {
-   "d": "2026-11-17T12:00+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Siemens Industrial Software Products",
-   "x": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-20…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04"
   }
  ]
 }
