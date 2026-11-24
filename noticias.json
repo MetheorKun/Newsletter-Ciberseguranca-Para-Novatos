@@ -1,6 +1,366 @@
 {
- "updated": "2026-11-24T07:01:34+00:00",
+ "updated": "2026-11-24T18:59:55+00:00",
  "items": [
+  {
+   "d": "2026-11-24T17:49+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Radware discloses breach exposing customer cloud access keys",
+   "x": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left e…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
+  },
+  {
+   "d": "2026-11-24T17:00+00:00",
+   "r": "Global",
+   "t": "Malware / Botnet",
+   "s": "Média",
+   "h": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
+   "x": "No sophisticated malware or attack framework required",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922"
+  },
+  {
+   "d": "2026-11-24T16:54+00:00",
+   "r": "Global",
+   "t": "Malware / Botnet",
+   "s": "Crítica",
+   "h": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+   "x": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a back…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html"
+  },
+  {
+   "d": "2026-11-24T16:32+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+   "x": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/"
+  },
+  {
+   "d": "2026-11-24T16:30+00:00",
+   "r": "América do Norte",
+   "t": "Ransomware",
+   "s": "Média",
+   "h": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+   "x": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/"
+  },
+  {
+   "d": "2026-11-24T16:30+00:00",
+   "r": "Global",
+   "t": "Ransomware",
+   "s": "Média",
+   "h": "New Inception Extortion Brand Tied to SSO Vishing Campaign",
+   "x": "Okta and ReversingLabs linked Inception to an SSO vishing campaign targeting employee credentials",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/"
+  },
+  {
+   "d": "2026-11-24T16:22+00:00",
+   "r": "Europa",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "European Commission confirms data theft in EU Academy breach",
+   "x": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/"
+  },
+  {
+   "d": "2026-11-24T16:15+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Hackers compromise Check Point Servers in 22 organizations",
+   "x": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/"
+  },
+  {
+   "d": "2026-11-24T15:10+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+   "x": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/"
+  },
+  {
+   "d": "2026-11-24T15:01+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Média",
+   "h": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+   "x": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/"
+  },
+  {
+   "d": "2026-11-24T14:49+00:00",
+   "r": "Europa",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+   "x": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appear…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/"
+  },
+  {
+   "d": "2026-11-24T14:21+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+   "x": "The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on Securi…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/"
+  },
+  {
+   "d": "2026-11-24T14:09+00:00",
+   "r": "Ásia",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "McDonald's Japan data breach exposes customer location information",
+   "x": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/"
+  },
+  {
+   "d": "2026-11-24T13:45+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Address AI Agent Risks or Face Action, FCA Warns Financial Firms",
+   "x": "The FCA said financial organizations must provide effective oversight and governance controls for AI agents, amid rising deployment in the sector",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/ai-agent-risks-face-action-fca/"
+  },
+  {
+   "d": "2026-11-24T13:34+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+   "x": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restart…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/"
+  },
+  {
+   "d": "2026-11-24T13:30+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
+   "x": "EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud. The post Anthropic Expands Enterprise Safeguards for Detecting AI Misuse appeared firs…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/"
+  },
+  {
+   "d": "2026-11-24T13:28+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+   "x": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html"
+  },
+  {
+   "d": "2026-11-24T13:28+00:00",
+   "r": "Global",
+   "t": "Ransomware",
+   "s": "Média",
+   "h": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+   "x": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The …",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html"
+  },
+  {
+   "d": "2026-11-24T13:00+00:00",
+   "r": "Ásia",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Chinese Open-Weight AI Models Top Closed Ones at Vulnerability Discovery in New Test",
+   "x": "In a vulnerability discovery test, DeepSeek outperformed five American closed-source AI models while costing far less to run",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/chinese-ai-models-top/"
+  },
+  {
+   "d": "2026-11-24T12:42+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+   "x": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"
+  },
+  {
+   "d": "2026-11-24T12:22+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Crítica",
+   "h": "CrowdStrike splashes $44B on Zscaler, customers brace for the bill",
+   "x": "Record-breaking cybersecurity deal promises tighter integration, but sysadmins fear higher prices and vendor lock-in",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877"
+  },
+  {
+   "d": "2026-11-24T12:20+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
+   "x": "OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready. The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/"
+  },
+  {
+   "d": "2026-11-24T12:02+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Média",
+   "h": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+   "x": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html"
+  },
+  {
+   "d": "2026-11-24T12:01+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+   "x": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through fast…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html"
+  },
+  {
+   "d": "2026-11-24T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Schneider Electric EcoStruxure Power Build Rapsody software",
+   "x": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extens…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02"
+  },
+  {
+   "d": "2026-11-24T12:00+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Danfoss AK-SM 8xxA Series",
+   "x": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA CVS…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03"
+  },
+  {
+   "d": "2026-11-24T12:00+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "AutomationDirect C-More EA9 Programming Software",
+   "x": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convince…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01"
+  },
+  {
+   "d": "2026-11-24T12:00+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems",
+   "x": "OpenAI and Cisco’s Shirudo helps Linux users block exploitation of known vulnerabilities on live systems, buying time for patching without requiring a restart",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/openai-cisco-shirudo-linux-shields/"
+  },
+  {
+   "d": "2026-11-24T11:50+00:00",
+   "r": "Ásia",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
+   "x": "Hackers stole personal information from the company’s customer portal and supplier relationship management platform. The post 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO appeared first on S…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/"
+  },
+  {
+   "d": "2026-11-24T11:32+00:00",
+   "r": "Europa",
+   "t": "Geral",
+   "s": "Média",
+   "h": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+   "x": "EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly",
+   "f": "The Register",
+   "u": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834"
+  },
+  {
+   "d": "2026-11-24T10:44+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Média",
+   "h": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+   "x": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy …",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html"
+  },
+  {
+   "d": "2026-11-24T10:44+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+   "x": "Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking appeared…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/"
+  },
+  {
+   "d": "2026-11-24T10:35+00:00",
+   "r": "América do Norte",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+   "x": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first …",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/"
+  },
+  {
+   "d": "2026-11-24T10:30+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "LaLiga Says Football Fans’ Personal Data Stolen",
+   "x": "Spanish football league LaLiga has revealed a breach of personally identifiable information",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/la-liga-says-football-fans/"
+  },
+  {
+   "d": "2026-11-24T09:30+00:00",
+   "r": "Global",
+   "t": "Malware / Botnet",
+   "s": "Média",
+   "h": "Researchers Find a New AI Attack Path: Agent Instructions",
+   "x": "Ox Security warns that agents are being manipulated without the need for executable malware",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/researchers-new-ai-attack-path/"
+  },
+  {
+   "d": "2026-11-24T08:34+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+   "x": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hash…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html"
+  },
   {
    "d": "2026-11-24T06:02+00:00",
    "r": "Ásia",
@@ -26,7 +386,7 @@
    "r": "Global",
    "t": "Vazamento de dados",
    "s": "Média",
-   "h": "Orgs that leak data ‘prioritize corporate interests over customers’ says Have I Been Pwned’s Troy Hunt",
+   "h": "Orgs that leak data 'prioritize corporate interests over customers' says Have I Been Pwned’s Troy Hunt",
    "x": "Leakers move through denial, bargaining, delay, legal threats, then claiming Hunt is the real villain",
    "f": "The Register",
    "u": "https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802"
@@ -272,16 +632,6 @@
    "u": "https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458"
   },
   {
-   "d": "2026-11-23T13:58+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path",
-   "x": "If a session overwrite operation is interrupted, an attacker who controls the fresh data could trigger data deserialization and RCE. The post phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path appeared first on …",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/"
-  },
-  {
    "d": "2026-11-23T13:30+00:00",
    "r": "América do Norte",
    "t": "Geral",
@@ -300,16 +650,6 @@
    "x": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
    "f": "BleepingComputer",
    "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/"
-  },
-  {
-   "d": "2026-11-23T13:26+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
-   "x": "Attackers abused a flaw in the GoodCloud remote management service to push malware to devices, and cleaning them requires new firmware. The post GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw appear…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/"
   },
   {
    "d": "2026-11-23T13:22+00:00",
@@ -352,26 +692,6 @@
    "u": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html"
   },
   {
-   "d": "2026-11-23T12:16+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos",
-   "x": "Dragos uncovered undetected intrusions at three AI inference providers using nearly two million prompts sent to AI services. The post AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos appeared…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/"
-  },
-  {
-   "d": "2026-11-23T12:02+00:00",
-   "r": "América do Norte",
-   "t": "Phishing / Golpes",
-   "s": "Média",
-   "h": "Call center operator gets 8 years for helping scam 30,000 Americans",
-   "x": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/"
-  },
-  {
    "d": "2026-11-23T12:00+00:00",
    "r": "América do Norte",
    "t": "Vulnerabilidade",
@@ -390,36 +710,6 @@
    "x": "Payments platform hasn't disclosed how the data was captured or the scale of the breach",
    "f": "The Register",
    "u": "https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573"
-  },
-  {
-   "d": "2026-11-23T11:44+00:00",
-   "r": "Global",
-   "t": "Phishing / Golpes",
-   "s": "Alta",
-   "h": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
-   "x": "Backdoors on low-cost consumer devices served modules for ad fraud and for turning devices into residential proxies. The post BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted appeared firs…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/"
-  },
-  {
-   "d": "2026-11-23T11:35+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks",
-   "x": "Threat actors could exploit them to leak or modify server information and to execute commands as root. The post SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/"
-  },
-  {
-   "d": "2026-11-23T11:31+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
-   "x": "CrowdStrike expects the combined company to have more than $10 billion in annual recurring revenue. The post CrowdStrike to Acquire Zscaler in $43.9 Billion Deal appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/"
   },
   {
    "d": "2026-11-23T10:45+00:00",
@@ -462,16 +752,6 @@
    "u": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html"
   },
   {
-   "d": "2026-11-23T09:11+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-   "x": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/"
-  },
-  {
    "d": "2026-11-23T09:04+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -502,16 +782,6 @@
    "u": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html"
   },
   {
-   "d": "2026-11-23T07:44+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-   "x": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"
-  },
-  {
    "d": "2026-11-23T04:39+00:00",
    "r": "Ásia",
    "t": "Malware / Botnet",
@@ -532,36 +802,6 @@
    "u": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532"
   },
   {
-   "d": "2026-11-22T18:45+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-   "x": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and rever…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"
-  },
-  {
-   "d": "2026-11-22T15:43+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-   "x": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/"
-  },
-  {
-   "d": "2026-11-22T15:15+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Alta",
-   "h": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-   "x": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
-  },
-  {
    "d": "2026-11-22T05:06+00:00",
    "r": "Global",
    "t": "Geral",
@@ -580,46 +820,6 @@
    "x": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert upl…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html"
-  },
-  {
-   "d": "2026-11-22T00:53+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
-   "x": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
-  },
-  {
-   "d": "2026-11-21T22:59+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-   "x": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"
-  },
-  {
-   "d": "2026-11-21T18:01+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-   "x": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant conf…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
-  },
-  {
-   "d": "2026-11-21T13:00+00:00",
-   "r": "América do Norte",
-   "t": "Geral",
-   "s": "Média",
-   "h": "President Trump Taps Kirsten Davies as National Cyber Director",
-   "x": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/"
   },
   {
    "d": "2026-11-21T11:53+00:00",
@@ -677,7 +877,7 @@
    "t": "Geral",
    "s": "Média",
    "h": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
-   "x": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
+   "x": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned jobs. But vendors' approaches vary, so CISOs face a choice.",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges"
   },
@@ -746,7 +946,7 @@
    "r": "Global",
    "t": "Geral",
    "s": "Média",
-   "h": "In Security, Words Matter as Much as Tools, Maybe More",
+   "h": "In Security, Words Matter as Much as Tools — Maybe More",
    "x": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/cybersecurity-operations/security-words-matter"
@@ -827,7 +1027,7 @@
    "t": "Geral",
    "s": "Média",
    "h": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
-   "x": "Microsoft uses its Ignite technical conference to announce new AI agent security tools and transparency standards to protect enterprise systems.",
+   "x": "At its Ignite technical conference, Microsoft announced AI agent security tools and transparency standards to protect enterprise systems.",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools"
   },
@@ -1143,16 +1343,6 @@
   },
   {
    "d": "2026-11-19T12:00+00:00",
-   "r": "Ásia",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "libumqtt",
-   "x": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: l…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03"
-  },
-  {
-   "d": "2026-11-19T12:00+00:00",
    "r": "América do Norte",
    "t": "Vulnerabilidade",
    "s": "Crítica",
@@ -1160,6 +1350,16 @@
    "x": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime CVS…",
    "f": "CISA",
    "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01"
+  },
+  {
+   "d": "2026-11-19T12:00+00:00",
+   "r": "Ásia",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "libumqtt",
+   "x": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: l…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03"
   },
   {
    "d": "2026-11-19T11:52+00:00",
@@ -1300,206 +1500,6 @@
    "x": "At least one dangerous RCE bug got a fix on Thursday",
    "f": "The Register",
    "u": "https://www.theregister.com/patches/2026/11/18/another-critical-php-security-release-has-dropped/5310911"
-  },
-  {
-   "d": "2026-11-18T21:59+00:00",
-   "r": "Europa",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
-   "x": "The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another"
-  },
-  {
-   "d": "2026-11-18T21:11+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "AI found more critical bugs in another widely used technology running 225M websites",
-   "x": "Open source NGINX joins patchapalooza",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887"
-  },
-  {
-   "d": "2026-11-18T20:45+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
-   "x": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool"
-  },
-  {
-   "d": "2026-11-18T20:38+00:00",
-   "r": "Global",
-   "t": "Ransomware",
-   "s": "Alta",
-   "h": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
-   "x": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups"
-  },
-  {
-   "d": "2026-11-18T18:31+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-   "x": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-so…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"
-  },
-  {
-   "d": "2026-11-18T18:15+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-   "x": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual s…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"
-  },
-  {
-   "d": "2026-11-18T17:45+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "California tells Waymo to take the next exit after freeway mishaps",
-   "x": "Robotaxi operator suspends driverless rides on high-speed roads nationwide after construction zone incursions and a run-in with patrol vehicles",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841"
-  },
-  {
-   "d": "2026-11-18T17:23+00:00",
-   "r": "Global",
-   "t": "Malware / Botnet",
-   "s": "Média",
-   "h": "Microsoft's official Python agent framework hijacked to distribute malware",
-   "x": "In today's how-could-things-get-worse-for-Microsoft news, it seems someone's GitHub org admin creds have been compromised",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858"
-  },
-  {
-   "d": "2026-11-18T17:10+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-   "x": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
-  },
-  {
-   "d": "2026-11-18T16:55+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Five Critical Vulnerabilities Found in World's Most Widely Used Open-Source Web Server",
-   "x": "Five critical NGINX vulnerabilities could allow unauthenticated attackers to remotely execute code and potentially take control of affected servers",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/"
-  },
-  {
-   "d": "2026-11-18T16:54+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
-   "x": "Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem"
-  },
-  {
-   "d": "2026-11-18T16:00+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Cyber insurers now want proof you can actually recover",
-   "x": "PARTNER CONTENT: As carriers tighten underwriting, a backup job marked green is no longer enough. Here’s the evidence underwriters expect",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325"
-  },
-  {
-   "d": "2026-11-18T15:00+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Crítica",
-   "h": "AI-powered cyber threats are changing the rules of enterprise recovery",
-   "x": "SPONSORED POST: As cyberattacks become more sophisticated, organizations need to look beyond prevention and ensure they can recover critical data quickly and reliably",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515"
-  },
-  {
-   "d": "2026-11-18T15:00+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Most SecOps Leaders Are Changing the L1 Role as Agent Use Grows",
-   "x": "Security leaders are rapidly redesigning SOCs for the AI agent era, with 74% already deploying the technology",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/secops-changing-l1-role-as-agent/"
-  },
-  {
-   "d": "2026-11-18T14:11+00:00",
-   "r": "Ásia",
-   "t": "Malware / Botnet",
-   "s": "Alta",
-   "h": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-   "x": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are e…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html"
-  },
-  {
-   "d": "2026-11-18T14:00+00:00",
-   "r": "América Latina",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Major Brazilian Signature Apps Enable RCE & Fraud",
-   "x": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud"
-  },
-  {
-   "d": "2026-11-18T14:00+00:00",
-   "r": "Ásia",
-   "t": "Malware / Botnet",
-   "s": "Alta",
-   "h": "Suspected Chinese APT Rebuilds EggStreme Malware After Exposure",
-   "x": "Suspected Chinese APT rebuilt EggStreme malware and infrastructure after Bitdefender exposure",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/eggstreme-malware-rebuilt-after/"
-  },
-  {
-   "d": "2026-11-18T12:35+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Java4Shell Vulnerability Allows Remote Attacks on Major Java Apps",
-   "x": "A critical OpenJDK vulnerability could expose major Java applications to remote code execution, prompting CISA to urge organizations implement mitigations",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/java4shell-vulnerability-remote/"
-  },
-  {
-   "d": "2026-11-18T12:28+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Alta",
-   "h": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-   "x": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to …",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html"
-  },
-  {
-   "d": "2026-11-18T12:15+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-   "x": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure da…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html"
   }
  ]
 }
