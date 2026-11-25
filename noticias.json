@@ -1,6 +1,226 @@
 {
- "updated": "2026-11-25T02:59:24+00:00",
+ "updated": "2026-11-25T12:32:07+00:00",
  "items": [
+  {
+   "d": "2026-11-25T15:00+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
+   "x": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainabl…",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide"
+  },
+  {
+   "d": "2026-11-25T11:51+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Crítica",
+   "h": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+   "x": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break.…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html"
+  },
+  {
+   "d": "2026-11-25T11:45+00:00",
+   "r": "América do Norte",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "US Treasury Investigates Cyber Incident Amid Reported Federal Agency Breaches",
+   "x": "The Treasury’s Crimes Enforcement Network is investigating a cyber incident and took some services offline",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/us-treasury-cyber-incident/"
+  },
+  {
+   "d": "2026-11-25T11:23+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+   "x": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by No…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html"
+  },
+  {
+   "d": "2026-11-25T11:16+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+   "x": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/"
+  },
+  {
+   "d": "2026-11-25T11:16+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Crítica",
+   "h": "Gatwick drop-off customers' personal data exposed in supplier breach",
+   "x": "AutoPay login and vehicle records affected, alongside limited payment information and customer service emails",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060"
+  },
+  {
+   "d": "2026-11-25T10:45+00:00",
+   "r": "Global",
+   "t": "Ransomware",
+   "s": "Crítica",
+   "h": "Ransomware Attacks Surge 23% in October Following Record Quarter",
+   "x": "The continued rise in ransomware attacks may reflect a new cyber environment, NCC Group researchers have warned",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/ransomware-surge-october-record/"
+  },
+  {
+   "d": "2026-11-25T10:43+00:00",
+   "r": "Global",
+   "t": "Operação policial",
+   "s": "Crítica",
+   "h": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+   "x": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tue…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html"
+  },
+  {
+   "d": "2026-11-25T10:40+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Plagiarism Checker Turnitin Investigating Cyberattack",
+   "x": "The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/"
+  },
+  {
+   "d": "2026-11-25T10:10+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+   "x": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/"
+  },
+  {
+   "d": "2026-11-25T10:00+00:00",
+   "r": "Europa",
+   "t": "Geral",
+   "s": "Média",
+   "h": "NCSC Shares Guidance to Tackle Agentic Threat From ARTEX-Like Tools",
+   "x": "UK’s National Cyber Security Centre urges “strong operational discipline” to manage agentic offensive frameworks",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/ncsc-tips-tackle-agentic-threat/"
+  },
+  {
+   "d": "2026-11-25T09:29+00:00",
+   "r": "Europa",
+   "t": "Phishing / Golpes",
+   "s": "Média",
+   "h": "UK Authorized Push Payment Losses Surge 22% as Fraudsters Steal £660m",
+   "x": "Authorized push payment (APP) fraud increased 22% annually in the first half of the year",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/uk-app-losses-surge-22-fraudsters/"
+  },
+  {
+   "d": "2026-11-25T09:06+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+   "x": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the r…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html"
+  },
+  {
+   "d": "2026-11-25T09:05+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
+   "x": "Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data. The post Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library appeared first…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/"
+  },
+  {
+   "d": "2026-11-25T09:02+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Média",
+   "h": "Microsoft confirms authentication issues after November updates",
+   "x": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/"
+  },
+  {
+   "d": "2026-11-25T08:12+00:00",
+   "r": "Ásia",
+   "t": "Vulnerabilidade",
+   "s": "Média",
+   "h": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
+   "x": "A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers. The post Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/"
+  },
+  {
+   "d": "2026-11-25T08:01+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
+   "x": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. The post Drupal Flaw Found by Anthropic Scanner Exploited in Attacks appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/"
+  },
+  {
+   "d": "2026-11-25T07:45+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Hackers reportedly breached CIA intelligence analysis system",
+   "x": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/"
+  },
+  {
+   "d": "2026-11-25T06:50+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+   "x": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world. The intr…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"
+  },
+  {
+   "d": "2026-11-25T06:37+00:00",
+   "r": "América do Norte",
+   "t": "Ransomware",
+   "s": "Média",
+   "h": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+   "x": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortio…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html"
+  },
+  {
+   "d": "2026-11-25T06:21+00:00",
+   "r": "Global",
+   "t": "Malware / Botnet",
+   "s": "Alta",
+   "h": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+   "x": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise …",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html"
+  },
+  {
+   "d": "2026-11-25T05:15+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "This could mess with Thanksgiving, says VMware as it drops third critical patch bundle in a week",
+   "x": "Four more critical vulns, including another unauthorized access flaw in vCenter",
+   "f": "The Register",
+   "u": "https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017"
+  },
   {
    "d": "2026-11-24T22:41+00:00",
    "r": "Global",
@@ -372,16 +592,6 @@
    "u": "https://www.infosecurity-magazine.com/news/openai-cisco-shirudo-linux-shields/"
   },
   {
-   "d": "2026-11-24T11:50+00:00",
-   "r": "Ásia",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
-   "x": "Hackers stole personal information from the company’s customer portal and supplier relationship management platform. The post 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO appeared first on S…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/"
-  },
-  {
    "d": "2026-11-24T11:32+00:00",
    "r": "Europa",
    "t": "Geral",
@@ -400,26 +610,6 @@
    "x": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy …",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html"
-  },
-  {
-   "d": "2026-11-24T10:44+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
-   "x": "Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking appeared…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/"
-  },
-  {
-   "d": "2026-11-24T10:35+00:00",
-   "r": "América do Norte",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
-   "x": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first …",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/"
   },
   {
    "d": "2026-11-24T10:30+00:00",
@@ -522,16 +712,6 @@
    "u": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal"
   },
   {
-   "d": "2026-11-23T20:54+00:00",
-   "r": "Ásia",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-   "x": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/"
-  },
-  {
    "d": "2026-11-23T20:13+00:00",
    "r": "América do Norte",
    "t": "Geral",
@@ -542,26 +722,6 @@
    "u": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise"
   },
   {
-   "d": "2026-11-23T20:00+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Média",
-   "h": "OpenRouter drops AI providers over leaked prompts and secrets",
-   "x": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/"
-  },
-  {
-   "d": "2026-11-23T19:42+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Microsoft Azure flaw exploited to steal customers' API credentials",
-   "x": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"
-  },
-  {
    "d": "2026-11-23T19:29+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -570,16 +730,6 @@
    "x": "Security fixes are available for two Elecbrakes models, but an older controller remains vulnerable and unpatched",
    "f": "The Register",
    "u": "https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748"
-  },
-  {
-   "d": "2026-11-23T18:38+00:00",
-   "r": "Europa",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-   "x": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/"
   },
   {
    "d": "2026-11-23T17:56+00:00",
@@ -640,16 +790,6 @@
    "x": "Cequence found bots using AI agent names to probe for secrets as agents moved from reading to acting",
    "f": "Infosecurity Magazine",
    "u": "https://www.infosecurity-magazine.com/news/secrethunting-trafficai-agent/"
-  },
-  {
-   "d": "2026-11-23T15:47+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
-   "x": "Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms appeare…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/"
   },
   {
    "d": "2026-11-23T15:15+00:00",
@@ -1360,146 +1500,6 @@
    "x": "The European Commission said the attack targeted “individual systems”, with reports that attackers leveraged ARTEX in the campaign",
    "f": "Infosecurity Magazine",
    "u": "https://www.infosecurity-magazine.com/news/commission-ai-attack-systems/"
-  },
-  {
-   "d": "2026-11-19T14:33+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-   "x": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote …",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html"
-  },
-  {
-   "d": "2026-11-19T14:00+00:00",
-   "r": "Global",
-   "t": "Phishing / Golpes",
-   "s": "Média",
-   "h": "Why Holiday Security Can't Wait for Black Friday",
-   "x": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday"
-  },
-  {
-   "d": "2026-11-19T12:00+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Elecbrakes EB2, VM1, ELBC2000",
-   "x": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02"
-  },
-  {
-   "d": "2026-11-19T12:00+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Autonomy Logic OpenPLC Runtime",
-   "x": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime CVS…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01"
-  },
-  {
-   "d": "2026-11-19T12:00+00:00",
-   "r": "Ásia",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "libumqtt",
-   "x": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: l…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03"
-  },
-  {
-   "d": "2026-11-19T11:52+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Everything Is a Web Application, Including Your Firewall",
-   "x": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PA…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
-  },
-  {
-   "d": "2026-11-19T11:45+00:00",
-   "r": "América do Norte",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Cyberattack on service provider exposes payee data at 40 Irish credit unions",
-   "x": "Minister calls notification delay 'not acceptable' after October attack on Irish banking player Wellington IT came to light in November",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979"
-  },
-  {
-   "d": "2026-11-19T11:35+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed",
-   "x": "London’s transport body was alerted to the incident after emails were sent from TfL’s system to Oyster Photocard customers",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/tfl-customers-personal-data-exposed/"
-  },
-  {
-   "d": "2026-11-19T11:01+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "TfL takes Oyster photocard website offline after attackers compromise customer accounts",
-   "x": "Around 265,000 customers potentially affected as London transport operator grapples with another security breach",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985"
-  },
-  {
-   "d": "2026-11-19T10:30+00:00",
-   "r": "Europa",
-   "t": "Geral",
-   "s": "Média",
-   "h": "A Fifth of UK Employees Share Passwords with AI",
-   "x": "Dashlane research reveals UK workers are sharing passwords with AI tools and granting access to sensitive data, raising major enterprise security concerns",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/"
-  },
-  {
-   "d": "2026-11-19T10:15+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Sticky note on monitor provided keys to the company’s kingdom",
-   "x": "Don't leave your credentials out in public, where any visitor can see them.",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908"
-  },
-  {
-   "d": "2026-11-19T09:31+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-   "x": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have t…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html"
-  },
-  {
-   "d": "2026-11-19T09:20+00:00",
-   "r": "Ásia",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Rakuten Securities Breach Could Impact 15 Million Customers",
-   "x": "Japanese broker Rakuten Securities has revealed a data breach involving the account details of 15 million customers",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/"
-  },
-  {
-   "d": "2026-11-19T08:42+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
-   "x": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can r…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html"
   }
  ]
 }
