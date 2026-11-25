@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-24T18:59:55+00:00",
+ "updated": "2026-11-25T02:59:24+00:00",
  "items": [
+  {
+   "d": "2026-11-24T22:41+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+   "x": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/"
+  },
+  {
+   "d": "2026-11-24T22:05+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Satellites Have a Ground-Level Cybersecurity Problem",
+   "x": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem"
+  },
+  {
+   "d": "2026-11-24T21:48+00:00",
+   "r": "Ásia",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+   "x": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn"
+  },
+  {
+   "d": "2026-11-24T21:37+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Rackspace shuts down Spot cloud platform after security breach",
+   "x": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and dow…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"
+  },
+  {
+   "d": "2026-11-24T21:36+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Média",
+   "h": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+   "x": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc"
+  },
+  {
+   "d": "2026-11-24T20:21+00:00",
+   "r": "Global",
+   "t": "Ransomware",
+   "s": "Média",
+   "h": "New Inception extortion gang launches large-scale vishing campaign",
+   "x": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/"
+  },
+  {
+   "d": "2026-11-24T20:15+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "'We are not ShinyHunters,' says criminal hacking crew that looks and acts just like ShinyHunters",
+   "x": "Nothing to see here…",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978"
+  },
+  {
+   "d": "2026-11-24T18:59+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Turnitin discloses cyberattack affecting customer-facing systems",
+   "x": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/"
+  },
   {
    "d": "2026-11-24T17:49+00:00",
    "r": "Global",
@@ -243,13 +323,13 @@
   },
   {
    "d": "2026-11-24T12:00+00:00",
-   "r": "Europa",
+   "r": "América do Norte",
    "t": "Vulnerabilidade",
    "s": "Crítica",
-   "h": "Schneider Electric EcoStruxure Power Build Rapsody software",
-   "x": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extens…",
+   "h": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+   "x": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CV…",
    "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02"
+   "u": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
   },
   {
    "d": "2026-11-24T12:00+00:00",
@@ -260,6 +340,16 @@
    "x": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA CVS…",
    "f": "CISA",
    "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03"
+  },
+  {
+   "d": "2026-11-24T12:00+00:00",
+   "r": "Europa",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Schneider Electric EcoStruxure Power Build Rapsody software",
+   "x": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extens…",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02"
   },
   {
    "d": "2026-11-24T12:00+00:00",
@@ -532,16 +622,6 @@
    "u": "https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629"
   },
   {
-   "d": "2026-11-23T16:50+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-   "x": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/"
-  },
-  {
    "d": "2026-11-23T16:17+00:00",
    "r": "Ásia",
    "t": "Vulnerabilidade",
@@ -592,26 +672,6 @@
    "u": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html"
   },
   {
-   "d": "2026-11-23T15:06+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
-   "x": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/"
-  },
-  {
-   "d": "2026-11-23T15:00+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "AI Agents Are Creating a Shared Responsibility Gap",
-   "x": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can bet…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/"
-  },
-  {
    "d": "2026-11-23T15:00+00:00",
    "r": "Global",
    "t": "Geral",
@@ -640,16 +700,6 @@
    "x": "Two Congressmen have proposed to establish a cyber incident review board within the US Cybersecurity and Infrastructure Security Agency",
    "f": "Infosecurity Magazine",
    "u": "https://www.infosecurity-magazine.com/news/us-lawmakers-bill-cisa-review/"
-  },
-  {
-   "d": "2026-11-23T13:28+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-   "x": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/"
   },
   {
    "d": "2026-11-23T13:22+00:00",
@@ -1450,56 +1500,6 @@
    "x": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can r…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html"
-  },
-  {
-   "d": "2026-11-19T08:14+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-   "x": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behin…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html"
-  },
-  {
-   "d": "2026-11-19T08:00+00:00",
-   "r": "América do Norte",
-   "t": "Ransomware",
-   "s": "Alta",
-   "h": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-   "x": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Elec…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html"
-  },
-  {
-   "d": "2026-11-19T08:00+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
-   "x": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge"
-  },
-  {
-   "d": "2026-11-19T04:33+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-   "x": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html"
-  },
-  {
-   "d": "2026-11-18T22:38+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Another critical PHP security release has dropped",
-   "x": "At least one dangerous RCE bug got a fix on Thursday",
-   "f": "The Register",
-   "u": "https://www.theregister.com/patches/2026/11/18/another-critical-php-security-release-has-dropped/5310911"
   }
  ]
 }
