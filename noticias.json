@@ -1,6 +1,136 @@
 {
- "updated": "2026-11-25T12:32:07+00:00",
+ "updated": "2026-11-25T22:07:03+00:00",
  "items": [
+  {
+   "d": "2026-11-25T22:05+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+   "x": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"
+  },
+  {
+   "d": "2026-11-25T21:33+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "1Password customer data stolen after employee GitHub account breach",
+   "x": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+  },
+  {
+   "d": "2026-11-25T19:40+00:00",
+   "r": "América do Norte",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "The security of US water systems is even leakier than we thought",
+   "x": "And intruders don't always need to exploit bugs to break in",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243"
+  },
+  {
+   "d": "2026-11-25T19:39+00:00",
+   "r": "Europa",
+   "t": "Geral",
+   "s": "Crítica",
+   "h": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+   "x": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
+  },
+  {
+   "d": "2026-11-25T17:01+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Microsoft's NTLM security changes trip up third-party logins",
+   "x": "It's not our fault if you've implemented it wrong",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085"
+  },
+  {
+   "d": "2026-11-25T16:40+00:00",
+   "r": "América do Norte",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "US Treasury financial crimes unit becomes latest fed breach victim",
+   "x": "FinCEN takes systems offline and extends filing deadlines while investigating 'unauthorized access'",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165"
+  },
+  {
+   "d": "2026-11-25T16:13+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+   "x": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lig…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/"
+  },
+  {
+   "d": "2026-11-25T16:00+00:00",
+   "r": "América do Norte",
+   "t": "Phishing / Golpes",
+   "s": "Média",
+   "h": "US Anti-Scam Surge Hits 800 Defendants and 29 Scam Compounds",
+   "x": "DOJ's anti-scam surge has targeted over 800 defendants while the FBI has hit over 29 scam compounds",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/doj-anti-scam-surge-800-defendants/"
+  },
+  {
+   "d": "2026-11-25T15:48+00:00",
+   "r": "Global",
+   "t": "Malware / Botnet",
+   "s": "Média",
+   "h": "Attackers Target .NET Developers With Poisoned Job Assessments",
+   "x": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments"
+  },
+  {
+   "d": "2026-11-25T15:27+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+   "x": "Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE. The post Two Newly Disclosed GeoServer Vulnerabilities Under Attack appeared first on Sec…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/"
+  },
+  {
+   "d": "2026-11-25T15:20+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "It's a Bot World. We're Just Living in It",
+   "x": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cyber-risk/bot-world-just-living"
+  },
+  {
+   "d": "2026-11-25T15:00+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Baixa",
+   "h": "More Pentests Without More Pentesters: Where AI Safely Helps",
+   "x": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagement…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/"
+  },
+  {
+   "d": "2026-11-25T15:00+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "InfraTrust warns of exploited supply chain flaws in network appliances",
+   "x": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than c…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/"
+  },
   {
    "d": "2026-11-25T15:00+00:00",
    "r": "Global",
@@ -10,6 +140,86 @@
    "x": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainabl…",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide"
+  },
+  {
+   "d": "2026-11-25T15:00+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Palo Alto Fixes Fragnesia Kernel Bug Chained With PHP2Shell in Firewall Attacks",
+   "x": "Palo Alto fixed Fragnesia after attackers chained it with PHP2Shell to root firewalls",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/palo-alto-fragnesia-php2shell-fix/"
+  },
+  {
+   "d": "2026-11-25T14:15+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+   "x": "An account tied to ShinyHunters announced the group’s return, as Okta spots possible links between Inception and ShinyHunters hackers. The post ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties appea…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/"
+  },
+  {
+   "d": "2026-11-25T14:00+00:00",
+   "r": "América Latina",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
+   "x": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing"
+  },
+  {
+   "d": "2026-11-25T13:39+00:00",
+   "r": "América do Norte",
+   "t": "Geral",
+   "s": "Média",
+   "h": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
+   "x": "FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident. The post US Treasury’s FinCEN Disconnects Systems Following Cyber Incident appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/"
+  },
+  {
+   "d": "2026-11-25T13:30+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
+   "x": "Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University. The post Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget appeared first on …",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/"
+  },
+  {
+   "d": "2026-11-25T12:48+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+   "x": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
+  },
+  {
+   "d": "2026-11-25T12:30+00:00",
+   "r": "América do Norte",
+   "t": "Geral",
+   "s": "Baixa",
+   "h": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+   "x": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday.…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html"
+  },
+  {
+   "d": "2026-11-25T12:00+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+   "x": "CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 …",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
   },
   {
    "d": "2026-11-25T11:51+00:00",
@@ -362,74 +572,14 @@
    "u": "https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/"
   },
   {
-   "d": "2026-11-24T16:22+00:00",
-   "r": "Europa",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "European Commission confirms data theft in EU Academy breach",
-   "x": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/"
-  },
-  {
-   "d": "2026-11-24T16:15+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Hackers compromise Check Point Servers in 22 organizations",
-   "x": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/"
-  },
-  {
-   "d": "2026-11-24T15:10+00:00",
+   "d": "2026-11-24T15:46+00:00",
    "r": "Global",
    "t": "Geral",
    "s": "Média",
-   "h": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-   "x": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/"
-  },
-  {
-   "d": "2026-11-24T15:01+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-   "x": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/"
-  },
-  {
-   "d": "2026-11-24T14:49+00:00",
-   "r": "Europa",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "European Commission Uncovers Data Breach in Cyberattack Investigation",
-   "x": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appear…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/"
-  },
-  {
-   "d": "2026-11-24T14:21+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
-   "x": "The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on Securi…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/"
-  },
-  {
-   "d": "2026-11-24T14:09+00:00",
-   "r": "Ásia",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "McDonald's Japan data breach exposes customer location information",
-   "x": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/"
+   "h": "How Southeastern University Got a Handle on Its Data",
+   "x": "Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data"
   },
   {
    "d": "2026-11-24T13:45+00:00",
@@ -440,26 +590,6 @@
    "x": "The FCA said financial organizations must provide effective oversight and governance controls for AI agents, amid rising deployment in the sector",
    "f": "Infosecurity Magazine",
    "u": "https://www.infosecurity-magazine.com/news/ai-agent-risks-face-action-fca/"
-  },
-  {
-   "d": "2026-11-24T13:34+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-   "x": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restart…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/"
-  },
-  {
-   "d": "2026-11-24T13:30+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
-   "x": "EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud. The post Anthropic Expands Enterprise Safeguards for Detecting AI Misuse appeared firs…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/"
   },
   {
    "d": "2026-11-24T13:28+00:00",
@@ -512,16 +642,6 @@
    "u": "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877"
   },
   {
-   "d": "2026-11-24T12:20+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
-   "x": "OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready. The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/"
-  },
-  {
    "d": "2026-11-24T12:02+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -546,20 +666,20 @@
    "r": "América do Norte",
    "t": "Vulnerabilidade",
    "s": "Crítica",
-   "h": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-   "x": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CV…",
+   "h": "AutomationDirect C-More EA9 Programming Software",
+   "x": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convince…",
    "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01"
   },
   {
    "d": "2026-11-24T12:00+00:00",
    "r": "América do Norte",
    "t": "Vulnerabilidade",
    "s": "Crítica",
-   "h": "Danfoss AK-SM 8xxA Series",
-   "x": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA CVS…",
+   "h": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+   "x": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CV…",
    "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03"
+   "u": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
   },
   {
    "d": "2026-11-24T12:00+00:00",
@@ -576,10 +696,10 @@
    "r": "América do Norte",
    "t": "Vulnerabilidade",
    "s": "Crítica",
-   "h": "AutomationDirect C-More EA9 Programming Software",
-   "x": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convince…",
+   "h": "Danfoss AK-SM 8xxA Series",
+   "x": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA CVS…",
    "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01"
+   "u": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03"
   },
   {
    "d": "2026-11-24T12:00+00:00",
@@ -1380,126 +1500,6 @@
    "x": "First service outages, then data breaches…what's next?!",
    "f": "The Register",
    "u": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175"
-  },
-  {
-   "d": "2026-11-19T20:14+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Second Norwegian Energy Company Breached in 2 Days",
-   "x": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached"
-  },
-  {
-   "d": "2026-11-19T19:57+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
-   "x": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell"
-  },
-  {
-   "d": "2026-11-19T19:46+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Navigating Vulnerability Hysteria in the AI Era",
-   "x": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and…",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era"
-  },
-  {
-   "d": "2026-11-19T18:52+00:00",
-   "r": "Global",
-   "t": "Ransomware",
-   "s": "Alta",
-   "h": "Nvidia adds possible hack to list of very bad things under investigation",
-   "x": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153"
-  },
-  {
-   "d": "2026-11-19T18:47+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-   "x": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories sh…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html"
-  },
-  {
-   "d": "2026-11-19T16:59+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-   "x": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the a…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html"
-  },
-  {
-   "d": "2026-11-19T16:20+00:00",
-   "r": "Europa",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Russian national accused of stalking San Francisco techie in plot against US defense-tech giant",
-   "x": "DoJ claims suspect part of 4-month operation to steal secrets, surveil employees",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126"
-  },
-  {
-   "d": "2026-11-19T15:30+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Alta",
-   "h": "CyberPower PowerPanel Exploited to Run Malicious Code on Domain Controller",
-   "x": "Symantec found an attacker using CyberPower’s UPS software to run scripts on a domain controller",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/ups-software-abused-domain/"
-  },
-  {
-   "d": "2026-11-19T15:28+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "PHP Releases Patches to Fix 18 Vulnerabilities",
-   "x": "PHP has released security updates addressing 18 vulnerabilities, including critical remote code execution flaws affecting session handling",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/php-releases-patches-fix-18/"
-  },
-  {
-   "d": "2026-11-19T15:18+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-   "x": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html"
-  },
-  {
-   "d": "2026-11-19T15:11+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-   "x": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions ar…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html"
-  },
-  {
-   "d": "2026-11-19T14:45+00:00",
-   "r": "Europa",
-   "t": "Geral",
-   "s": "Baixa",
-   "h": "European Commission Confirms AI-Driven Cyber-Attack Took Systems Offline",
-   "x": "The European Commission said the attack targeted “individual systems”, with reports that attackers leveraged ARTEX in the campaign",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/commission-ai-attack-systems/"
   }
  ]
 }
