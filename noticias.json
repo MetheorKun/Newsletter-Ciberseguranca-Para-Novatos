@@ -1,6 +1,196 @@
 {
- "updated": "2026-11-26T04:15:44+00:00",
+ "updated": "2026-11-26T14:10:48+00:00",
  "items": [
+  {
+   "d": "2026-11-26T14:02+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Wyoming uranium operation shuts down after cyberattack",
+   "x": "Peninsula Energy says plant and wellfield control systems were affected, with no restart date yet",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323"
+  },
+  {
+   "d": "2026-11-26T13:22+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Company was religious about backups but sinned by leaving them exposed",
+   "x": "Never put the backup server in the same Windows domain as production",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234"
+  },
+  {
+   "d": "2026-11-26T13:15+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Google Cloud Requires AI Agents to Access Workspace Through Approved Methods",
+   "x": "Google Cloud users will soon be required to use Workspace MCP servers or command line interface to connect AI agents to tools like Gmail, Google Drive or Docs",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/google-cloud-ai-agents-workspace/"
+  },
+  {
+   "d": "2026-11-26T13:04+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+   "x": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek .",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/"
+  },
+  {
+   "d": "2026-11-26T12:30+00:00",
+   "r": "Global",
+   "t": "Phishing / Golpes",
+   "s": "Média",
+   "h": "Phishers Abuse Hugging Face's AI Site Builder to Spoof Big Brands",
+   "x": "Aikido found 42 phishing pages on Hugging Face Spaces, two-thirds made with its AI site builder",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/hugging-face-ai-builder-phishing/"
+  },
+  {
+   "d": "2026-11-26T11:50+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+   "x": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and O…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/"
+  },
+  {
+   "d": "2026-11-26T11:35+00:00",
+   "r": "Global",
+   "t": "Ransomware",
+   "s": "Crítica",
+   "h": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+   "x": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first …",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/"
+  },
+  {
+   "d": "2026-11-26T11:05+00:00",
+   "r": "Ásia",
+   "t": "Espionagem",
+   "s": "Média",
+   "h": "Chinese, North Korean Hackers Adopt ARTEX AI Offensive Framework",
+   "x": "Microsoft has confirmed nation-state actors’ deployment of the ARTEX in their tooling, while the CSA described the emergence of the tool as part of a “third wave” of AI-driven threats",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/chinese-north-korea-artex/"
+  },
+  {
+   "d": "2026-11-26T11:02+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Hackers help themselves to 1Password's source code and customer data",
+   "x": "An intruder planted malicious code in backend services, but the biz insists passwords are safe",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"
+  },
+  {
+   "d": "2026-11-26T10:57+00:00",
+   "r": "Global",
+   "t": "Phishing / Golpes",
+   "s": "Média",
+   "h": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+   "x": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to k…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html"
+  },
+  {
+   "d": "2026-11-26T10:57+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+   "x": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer passw…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html"
+  },
+  {
+   "d": "2026-11-26T10:30+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "Home Office Reprimanded After GDPR Failure at the Border",
+   "x": "The ICO has reprimanded the Home Office after data integrity failings caused distress at the border",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/home-office-reprimanded-gdpr/"
+  },
+  {
+   "d": "2026-11-26T09:32+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "1Password Hit by Backend Breach via Hijacked Employee GitHub Account",
+   "x": "An attacker used a 1Password employee's GitHub account to take customer data, but not vaults",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/1password-github-account-backend/"
+  },
+  {
+   "d": "2026-11-26T09:30+00:00",
+   "r": "Europa",
+   "t": "Geral",
+   "s": "Média",
+   "h": "UK Home Office waved through border system without a working fix for bad data",
+   "x": "ICO reprimand follows failings that risked wrongful detention, with a temporary correction process taking more than a year to arrive",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162"
+  },
+  {
+   "d": "2026-11-26T09:12+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+   "x": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared fi…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/"
+  },
+  {
+   "d": "2026-11-26T08:32+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "1Password Breach Exposes Customer Data, Internal Source Code",
+   "x": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/"
+  },
+  {
+   "d": "2026-11-26T08:00+00:00",
+   "r": "Global",
+   "t": "Espionagem",
+   "s": "Alta",
+   "h": "Cyprus Becomes Espionage Target for Iranian Hackers",
+   "x": "A previously undocumented Iranian threat group called \"Volant Manticore\" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers"
+  },
+  {
+   "d": "2026-11-26T07:02+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+   "x": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case …",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"
+  },
+  {
+   "d": "2026-11-26T06:44+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+   "x": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that wer…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html"
+  },
   {
    "d": "2026-11-26T03:48+00:00",
    "r": "Global",
@@ -372,26 +562,6 @@
    "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/"
   },
   {
-   "d": "2026-11-25T08:12+00:00",
-   "r": "Ásia",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
-   "x": "A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers. The post Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/"
-  },
-  {
-   "d": "2026-11-25T08:01+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
-   "x": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. The post Drupal Flaw Found by Anthropic Scanner Exploited in Attacks appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/"
-  },
-  {
    "d": "2026-11-25T07:45+00:00",
    "r": "América do Norte",
    "t": "Vulnerabilidade",
@@ -440,16 +610,6 @@
    "x": "Four more critical vulns, including another unauthorized access flaw in vCenter",
    "f": "The Register",
    "u": "https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017"
-  },
-  {
-   "d": "2026-11-24T22:41+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
-   "x": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/"
   },
   {
    "d": "2026-11-24T22:05+00:00",
@@ -550,26 +710,6 @@
    "x": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a back…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html"
-  },
-  {
-   "d": "2026-11-24T16:32+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
-   "x": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek .",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/"
-  },
-  {
-   "d": "2026-11-24T16:30+00:00",
-   "r": "América do Norte",
-   "t": "Ransomware",
-   "s": "Média",
-   "h": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-   "x": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/"
   },
   {
    "d": "2026-11-24T16:30+00:00",
@@ -1360,146 +1500,6 @@
    "x": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can incl…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html"
-  },
-  {
-   "d": "2026-11-20T12:18+00:00",
-   "r": "Europa",
-   "t": "Malware / Botnet",
-   "s": "Alta",
-   "h": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand",
-   "x": "Notice's existence can be acknowledged without harming national security, but its precise demands remain under wraps",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292"
-  },
-  {
-   "d": "2026-11-20T12:00+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Baixa",
-   "h": "The Path to AI Autonomy in the SOC",
-   "x": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously …",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html"
-  },
-  {
-   "d": "2026-11-20T12:00+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-   "x": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Qu…",
-   "f": "CISA",
-   "u": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog"
-  },
-  {
-   "d": "2026-11-20T11:55+00:00",
-   "r": "Global",
-   "t": "Phishing / Golpes",
-   "s": "Média",
-   "h": "Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams",
-   "x": "Researchers have uncovered a large-scale campaign in which attackers flood inboxes with emails before impersonating IT helpdesk staff to gain access to user accounts",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/mail-bombing-attacks-it-helpdesk/"
-  },
-  {
-   "d": "2026-11-20T11:09+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Windows 11 passkey bug cries failure after successful sign-in",
-   "x": "Optional update fixes misleading Android error for versions 25H2 and 26H2",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263"
-  },
-  {
-   "d": "2026-11-20T10:38+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
-   "x": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Atta…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html"
-  },
-  {
-   "d": "2026-11-20T10:32+00:00",
-   "r": "Europa",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-   "x": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activ…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html"
-  },
-  {
-   "d": "2026-11-20T09:38+00:00",
-   "r": "Ásia",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-   "x": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html"
-  },
-  {
-   "d": "2026-11-20T09:00+00:00",
-   "r": "Ásia",
-   "t": "Cripto",
-   "s": "Média",
-   "h": "Suspected North Korea-Aligned Group Hides C2 on Solana Blockchain",
-   "x": "Cisco Talos tied a RAT that hides C2 on Solana and survives Windows resets to UAT-12643",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/"
-  },
-  {
-   "d": "2026-11-20T07:11+00:00",
-   "r": "Global",
-   "t": "Phishing / Golpes",
-   "s": "Média",
-   "h": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-   "x": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates …",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html"
-  },
-  {
-   "d": "2026-11-20T05:30+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-   "x": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administ…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html"
-  },
-  {
-   "d": "2026-11-20T00:57+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
-   "x": "Critical Virtzilla bugs allow authentication bypass, as a nested virtualization issue got Digital Ocean ducking",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193"
-  },
-  {
-   "d": "2026-11-20T00:06+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Germ Network infects Android, but in a good way",
-   "x": "Bluesky's preferred encrypted messaging app allows multiple identities without tying you to a phone number",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186"
-  },
-  {
-   "d": "2026-11-19T22:40+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
-   "x": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering"
   }
  ]
 }
