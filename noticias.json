@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-25T22:07:03+00:00",
+ "updated": "2026-11-26T04:15:44+00:00",
  "items": [
+  {
+   "d": "2026-11-26T03:48+00:00",
+   "r": "Global",
+   "t": "Malware / Botnet",
+   "s": "Média",
+   "h": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+   "x": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF …",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html"
+  },
   {
    "d": "2026-11-25T22:05+00:00",
    "r": "Global",
@@ -1490,16 +1500,6 @@
    "x": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering"
-  },
-  {
-   "d": "2026-11-19T21:12+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
-   "x": "First service outages, then data breaches…what's next?!",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175"
   }
  ]
 }
