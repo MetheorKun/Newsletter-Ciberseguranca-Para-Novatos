@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-26T14:10:48+00:00",
+ "updated": "2026-11-26T23:10:20+00:00",
  "items": [
+  {
+   "d": "2026-11-26T21:06+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+   "x": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/"
+  },
+  {
+   "d": "2026-11-26T19:39+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+   "x": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install o…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html"
+  },
+  {
+   "d": "2026-11-26T19:04+00:00",
+   "r": "Ásia",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+   "x": "Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433"
+  },
+  {
+   "d": "2026-11-26T17:58+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+   "x": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/"
+  },
+  {
+   "d": "2026-11-26T17:15+00:00",
+   "r": "Global",
+   "t": "Phishing / Golpes",
+   "s": "Baixa",
+   "h": "Fake paid expert interviews impersonate brands to steal Google logins",
+   "x": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews a…",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/"
+  },
+  {
+   "d": "2026-11-26T17:06+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Média",
+   "h": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
+   "x": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’ appeared first on Sec…",
+   "f": "SecurityWeek",
+   "u": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/"
+  },
+  {
+   "d": "2026-11-26T16:16+00:00",
+   "r": "Europa",
+   "t": "Geral",
+   "s": "Média",
+   "h": "UK privacy watchdog faces probe into its workplace culture",
+   "x": "Independent review will examine leadership, accountability, and how staff concerns were handled before former commissioner John Edwards resigned",
+   "f": "The Register",
+   "u": "https://www.theregister.com/public-sector/2026/11/26/uk-privacy-watchdog-faces-probe-into-its-workplace-culture/5312380"
+  },
+  {
+   "d": "2026-11-26T15:29+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Crítica",
+   "h": "'Significant number of customer records' pwned in Flight Centre Travel Group breach",
+   "x": "The latest attack in spate of similar incidents targeting booking systems globally",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360"
+  },
+  {
+   "d": "2026-11-26T15:23+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Remus malware steals Gmail messages via fake Google Sheets extension",
+   "x": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/"
+  },
+  {
+   "d": "2026-11-26T15:13+00:00",
+   "r": "Ásia",
+   "t": "Malware / Botnet",
+   "s": "Baixa",
+   "h": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+   "x": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides …",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html"
+  },
+  {
+   "d": "2026-11-26T14:15+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "CISA Issues Alert After Danfoss Reveals Critical Flaw in Fridge Controllers",
+   "x": "Food retailers are in the firing line again after manufacturer Danfoss issued an alert about a critical new flaw",
+   "f": "Infosecurity Magazine",
+   "u": "https://www.infosecurity-magazine.com/news/cisa-alert-danfoss-critical-flaw/"
+  },
   {
    "d": "2026-11-26T14:02+00:00",
    "r": "Global",
@@ -542,16 +652,6 @@
    "u": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html"
   },
   {
-   "d": "2026-11-25T09:05+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
-   "x": "Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data. The post Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library appeared first…",
-   "f": "SecurityWeek",
-   "u": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/"
-  },
-  {
    "d": "2026-11-25T09:02+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -632,16 +732,6 @@
    "u": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn"
   },
   {
-   "d": "2026-11-24T21:37+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Rackspace shuts down Spot cloud platform after security breach",
-   "x": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and dow…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"
-  },
-  {
    "d": "2026-11-24T21:36+00:00",
    "r": "Global",
    "t": "Vulnerabilidade",
@@ -652,16 +742,6 @@
    "u": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc"
   },
   {
-   "d": "2026-11-24T20:21+00:00",
-   "r": "Global",
-   "t": "Ransomware",
-   "s": "Média",
-   "h": "New Inception extortion gang launches large-scale vishing campaign",
-   "x": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/"
-  },
-  {
    "d": "2026-11-24T20:15+00:00",
    "r": "Global",
    "t": "Geral",
@@ -670,26 +750,6 @@
    "x": "Nothing to see here…",
    "f": "The Register",
    "u": "https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978"
-  },
-  {
-   "d": "2026-11-24T18:59+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Turnitin discloses cyberattack affecting customer-facing systems",
-   "x": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/"
-  },
-  {
-   "d": "2026-11-24T17:49+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "Radware discloses breach exposing customer cloud access keys",
-   "x": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left e…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
   },
   {
    "d": "2026-11-24T17:00+00:00",
@@ -1440,66 +1500,6 @@
    "x": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry"
-  },
-  {
-   "d": "2026-11-20T16:58+00:00",
-   "r": "Global",
-   "t": "Malware / Botnet",
-   "s": "Média",
-   "h": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-   "x": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
-  },
-  {
-   "d": "2026-11-20T16:44+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Dutch data watchdog highlights safety issues with AI glasses",
-   "x": "Devices found to misinterpret medication instructions and other scenarios impacting human safety",
-   "f": "The Register",
-   "u": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345"
-  },
-  {
-   "d": "2026-11-20T16:15+00:00",
-   "r": "Global",
-   "t": "Ransomware",
-   "s": "Alta",
-   "h": "JPMorgan Confirms Customer Data Breach Following Third-Party Compromise",
-   "x": "Ransomware actor N0n has claimed attacks on JPMorgan, Visa and Mastercard, reportedly leaking customer data on its dark web site",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/"
-  },
-  {
-   "d": "2026-11-20T14:15+00:00",
-   "r": "Global",
-   "t": "Ransomware",
-   "s": "Crítica",
-   "h": "Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds",
-   "x": "A new Rubrik report has shown that ransomware victims face 20-day median recovery time, with 28% of recovery cases taking longer than six weeks",
-   "f": "Infosecurity Magazine",
-   "u": "https://www.infosecurity-magazine.com/news/ransomware-recovery-20-days/"
-  },
-  {
-   "d": "2026-11-20T13:51+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
-   "x": "At its Ignite technical conference, Microsoft announced AI agent security tools and transparency standards to protect enterprise systems.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools"
-  },
-  {
-   "d": "2026-11-20T12:20+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Média",
-   "h": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-   "x": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can incl…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html"
   }
  ]
 }
