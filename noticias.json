@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-26T23:10:20+00:00",
+ "updated": "2026-11-27T05:13:45+00:00",
  "items": [
+  {
+   "d": "2026-11-27T01:19+00:00",
+   "r": "Ásia",
+   "t": "Vazamento de dados",
+   "s": "Crítica",
+   "h": "Free e-government platform that serves two billion people in ten countries has critical SQL injection bug",
+   "x": "India’s Digital Infrastructure for Governance Impact and Transformation tool can leak data",
+   "f": "The Register",
+   "u": "https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449"
+  },
   {
    "d": "2026-11-26T21:06+00:00",
    "r": "Global",
@@ -1490,16 +1500,6 @@
    "x": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said",
    "f": "The Register",
    "u": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382"
-  },
-  {
-   "d": "2026-11-20T17:04+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
-   "x": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry"
   }
  ]
 }
