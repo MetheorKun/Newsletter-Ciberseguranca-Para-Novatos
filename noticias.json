@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-27T15:26:11+00:00",
+ "updated": "2026-11-27T23:38:38+00:00",
  "items": [
+  {
+   "d": "2026-11-27T19:26+00:00",
+   "r": "Global",
+   "t": "Geral",
+   "s": "Baixa",
+   "h": "pCloud confirms password manager hack after suspicious login alerts",
+   "x": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"
+  },
+  {
+   "d": "2026-11-27T18:57+00:00",
+   "r": "Global",
+   "t": "Vazamento de dados",
+   "s": "Alta",
+   "h": "New Boston Scientific data breach exposes personal, medical info",
+   "x": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/"
+  },
+  {
+   "d": "2026-11-27T17:06+00:00",
+   "r": "Global",
+   "t": "Vulnerabilidade",
+   "s": "Crítica",
+   "h": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+   "x": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
+   "f": "BleepingComputer",
+   "u": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/"
+  },
+  {
+   "d": "2026-11-27T16:36+00:00",
+   "r": "Ásia",
+   "t": "Espionagem",
+   "s": "Alta",
+   "h": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+   "x": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military ag…",
+   "f": "The Hacker News",
+   "u": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html"
+  },
+  {
+   "d": "2026-11-27T15:27+00:00",
+   "r": "Ásia",
+   "t": "Geral",
+   "s": "Crítica",
+   "h": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+   "x": "The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across enterpr…",
+   "f": "Dark Reading",
+   "u": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks"
+  },
   {
    "d": "2026-11-27T15:09+00:00",
    "r": "América do Norte",
@@ -40,6 +90,16 @@
    "x": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
    "f": "Dark Reading",
    "u": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc"
+  },
+  {
+   "d": "2026-11-27T12:00+00:00",
+   "r": "América do Norte",
+   "t": "Vulnerabilidade",
+   "s": "Alta",
+   "h": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+   "x": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-120705 OSGeo GeoServer XML Injection Vulnerability CVE-2026-129243 OSGeo …",
+   "f": "CISA",
+   "u": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog"
   },
   {
    "d": "2026-11-27T11:49+00:00",
@@ -392,16 +452,6 @@
    "u": "https://www.infosecurity-magazine.com/news/hugging-face-ai-builder-phishing/"
   },
   {
-   "d": "2026-11-26T11:50+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-   "x": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and O…",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/"
-  },
-  {
    "d": "2026-11-26T11:35+00:00",
    "r": "Global",
    "t": "Ransomware",
@@ -540,26 +590,6 @@
    "x": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF …",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html"
-  },
-  {
-   "d": "2026-11-25T22:05+00:00",
-   "r": "Global",
-   "t": "Vulnerabilidade",
-   "s": "Alta",
-   "h": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-   "x": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"
-  },
-  {
-   "d": "2026-11-25T21:33+00:00",
-   "r": "Global",
-   "t": "Vazamento de dados",
-   "s": "Alta",
-   "h": "1Password customer data stolen after employee GitHub account breach",
-   "x": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
-   "f": "BleepingComputer",
-   "u": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
   },
   {
    "d": "2026-11-25T19:40+00:00",
@@ -1470,36 +1500,6 @@
    "x": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence sa…",
    "f": "The Hacker News",
    "u": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html"
-  },
-  {
-   "d": "2026-11-21T08:49+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-   "x": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The f…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html"
-  },
-  {
-   "d": "2026-11-21T08:49+00:00",
-   "r": "América do Norte",
-   "t": "Vulnerabilidade",
-   "s": "Crítica",
-   "h": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-   "x": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KE…",
-   "f": "The Hacker News",
-   "u": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"
-  },
-  {
-   "d": "2026-11-21T01:31+00:00",
-   "r": "Global",
-   "t": "Geral",
-   "s": "Média",
-   "h": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
-   "x": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned jobs. But vendors' approaches vary, so CISOs face a choice.",
-   "f": "Dark Reading",
-   "u": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges"
   }
  ]
 }
